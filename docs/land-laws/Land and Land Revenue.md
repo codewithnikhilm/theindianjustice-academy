@@ -1,11 +1,4 @@
----
 
-# Chapter VII: Land and Land Revenue
-*The Karnataka Land Revenue Act, 1964 (Sections 67 to 90)*
-
----
-
-## Overview
 
 Chapter VII lies at the core of the Karnataka Land Revenue Act, 1964. It defines the State’s underlying ownership rights over natural resources and public properties, establishes the universal liability of landholders to pay land revenue, and sets down the statutory mechanisms for land disposal, management, and revenue recovery.
 
