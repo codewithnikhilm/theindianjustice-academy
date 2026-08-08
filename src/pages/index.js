@@ -26,7 +26,7 @@ export default function Home() {
 
           <Link
             className="button button--primary button--lg"
-            to="/docs"
+            to="/docs/intro"
           >
             📚 Start Learning
           </Link>
@@ -52,7 +52,7 @@ export default function Home() {
            <SubjectCard
             title="🏞️ Registration Act"
             description="Notes, PYQs and important concepts."
-            link="/docs/registration-act"
+            link="/docs/registration-act/registration-establishments"
           />
 
           <SubjectCard
