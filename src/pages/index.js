@@ -17,7 +17,7 @@ export default function Home() {
       >
         <div style={{ textAlign: "center", marginBottom: "60px" }}>
         <img
-          src="/img/logo11.png"
+          src="static/img/logo11.png"
           alt="The Indian Justice Academy"
           style={{
           width: "100px",
