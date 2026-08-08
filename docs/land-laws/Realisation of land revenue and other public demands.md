@@ -1,11 +1,4 @@
----
 
-# Chapter XIV: Realisation of Land Revenue and Other Public Demands
-*The Karnataka Land Revenue Act, 1964 (Sections 157 to 192)*
-
----
-
-## Overview
 
 Chapter XIV establishes the legal framework for enforcing the recovery of land revenue arrears and other statutory public dues. It outlines primary liability, sets down the State's statutory priority over all other creditors, and prescribes progressive enforcement processes ranging from notices to property attachment.
 
