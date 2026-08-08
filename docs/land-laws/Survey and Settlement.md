@@ -1,7 +1,6 @@
 ---
 
 # Chapter XIII: Survey and Settlement of Lands and Boundary Disputes in Village Sites, Towns, and Cities
-*The Karnataka Land Revenue Act, 1964 (Sections 148 to 156)*
 
 ---
 
