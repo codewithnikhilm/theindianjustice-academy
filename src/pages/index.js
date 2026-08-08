@@ -16,8 +16,17 @@ export default function Home() {
         }}
       >
         <div style={{ textAlign: "center", marginBottom: "60px" }}>
-          <h1 style={{ fontSize: "3.5rem", marginBottom: "10px" }}>
-            ⚖️ The Indian Justice Academy
+        <img
+          src="/img/logo11.png"
+          alt="The Indian Justice Academy"
+          style={{
+          width: "100px",
+          height: "100px",
+          objectFit: "contain",
+          }}
+          />  
+        <h1 style={{ fontSize: "3.5rem", marginBottom: "10px" }}>
+            The Indian Justice Academy
           </h1>
 
           <p style={{ fontSize: "1.3rem", color: "#666" }}>
