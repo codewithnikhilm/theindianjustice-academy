@@ -1,7 +1,7 @@
 ---
 
 # Chapter VI: Revenue Jurisdiction
-*The Karnataka Land Revenue Act, 1964 (Sections 60 to 66)*
+
 
 ---
 
