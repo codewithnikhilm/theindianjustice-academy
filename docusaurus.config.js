@@ -85,8 +85,8 @@ const config = {
       navbar: {
         title: 'My Site',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'The Indian Justice Academy',
+          src: 'img/logo11.png',
         },
         items: [
           {
