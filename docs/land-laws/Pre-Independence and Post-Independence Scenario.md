@@ -1,5 +1,5 @@
 ---
-title: Historial development of Land Laws
+title: Pre-Independence and Post-Independence Scenario of Land Laws
 sidebar_position: 2
 ---
 
