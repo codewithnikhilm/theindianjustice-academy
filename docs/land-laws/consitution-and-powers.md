@@ -1,3 +1,7 @@
+---
+title: The Constitution and Powers of the Revenue Officers
+sidebar_position: 1
+---
 The Constitution and Powers of the Revenue Officers are detailed in Chapter II of The Karnataka Land Revenue Act, 1964.
 Constitution and Hierarchy of Revenue Officers
 The structure of Revenue Officers and their chain of command begins with the State Government as the ultimate authority.
