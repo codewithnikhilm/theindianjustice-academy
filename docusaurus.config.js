@@ -1,40 +1,32 @@
 // @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
+// Drop-in replacement for: docusaurus.config.js
+// Changes vs. the template default:
+//   - Real site title / tagline / metadata (was "My Site" / "Dinosaurs are cool")
+//   - Navbar + footer links point at YOUR repo (were facebook/docusaurus)
+//   - editUrl points at your repo so "Edit this page" works
+//   - Footer rebuilt around your actual subjects
+//   - Copyright uses your site name
 
-import {themes as prismThemes} from 'prism-react-renderer';
-
-// This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'The Indian Justice Academy',
+  tagline: 'Learn Law. Think Justice.',
   favicon: 'img/favicon.ico',
 
-  // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
-    v4: true, // Improve compatibility with the upcoming Docusaurus v4
+    v4: true,
   },
 
-  // Set the production url of your site here
   url: 'https://codewithnikhilm.github.io',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/theindianjustice-academy/',
 
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'codewithnikhilm', // Usually your GitHub org/user name.
-  projectName: 'theindianjustice-academy', // Usually your repo name.
+  organizationName: 'codewithnikhilm',
+  projectName: 'theindianjustice-academy',
 
   onBrokenLinks: 'throw',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -47,10 +39,8 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/codewithnikhilm/theindianjustice-academy/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -58,11 +48,8 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
+            'https://github.com/codewithnikhilm/theindianjustice-academy/tree/main/',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
@@ -77,13 +64,24 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/logo11.png',
+      metadata: [
+        {
+          name: 'description',
+          content:
+            'Free law notes, case laws, bare acts and previous year questions for Indian law students — Land Laws, Registration Act, CPC, BNS and more.',
+        },
+        {
+          name: 'keywords',
+          content:
+            'law notes, Indian law, land laws, registration act, CPC, BNS, jurisprudence, transfer of property, labour law',
+        },
+      ],
       colorMode: {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'The Indian Justice Academy',
         logo: {
           alt: 'The Indian Justice Academy',
           src: 'img/logo11.png',
@@ -93,11 +91,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Notes',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/codewithnikhilm/theindianjustice-academy',
             label: 'GitHub',
             position: 'right',
           },
@@ -107,33 +105,24 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Study',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Start here',
                 to: '/docs/intro',
               },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Land Laws',
+                to: '/docs/category/land-laws',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Registration Act',
+                to: '/docs/registration-act/registration-establishments',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Site',
             items: [
               {
                 label: 'Blog',
@@ -141,12 +130,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/codewithnikhilm/theindianjustice-academy',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} The Indian Justice Academy. Notes for students, freely shared.`,
       },
       prism: {
         theme: prismThemes.github,
