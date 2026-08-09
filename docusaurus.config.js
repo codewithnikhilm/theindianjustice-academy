@@ -119,8 +119,13 @@ const config = {
                 label: 'Registration Act',
                 to: '/docs/registration-act/registration-establishments',
               },
+              {
+                label: 'Professional Ethics',
+                to: '/docs/professional-ethics/legal-profession-in-india',
+              },
             ],
           },
+
           {
             title: 'Site',
             items: [
