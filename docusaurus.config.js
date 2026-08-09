@@ -40,7 +40,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           editUrl:
-            'https://github.com/codewithnikhilm/theindianjustice-academy/tree/main/',
+            '#',
         },
         blog: {
           showReadingTime: true,
@@ -49,7 +49,7 @@ const config = {
             xslt: true,
           },
           editUrl:
-            'https://github.com/codewithnikhilm/theindianjustice-academy/tree/main/',
+            '#',
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
