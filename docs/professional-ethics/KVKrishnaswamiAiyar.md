@@ -4,13 +4,13 @@
 
 ---
 
-# Chapter I: The Legal Profession and Its Responsibilities
+## Chapter I: The Legal Profession and Its Responsibilities
 
 In Chapter I of *Professional Conduct and Advocacy*, K. V. Krishnaswami Aiyar introduces the legal profession and explains its importance, dignity and responsibilities in society. He argues that a lawyer’s role is much greater than merely representing clients in court: the lawyer helps maintain justice, protects rights and contributes to the proper organisation of society.
 
 [Source](https://archive.org/stream/professionalcond029273mbp/professionalcond029273mbp_djvu.txt)
 
-## 1. Law as a Great Profession
+# 1. Law as a Great Profession
 
 Aiyar describes law as one of the greatest and most attractive peaceful professions. It is a controlling and unifying institution because it:
 
