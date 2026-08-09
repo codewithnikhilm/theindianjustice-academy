@@ -13,7 +13,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'The Indian Justice Academy',
   tagline: 'Learn Law. Think Justice.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo11.png',
 
   future: {
     v4: true,
