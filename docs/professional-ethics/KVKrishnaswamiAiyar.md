@@ -10,7 +10,7 @@ In Chapter I of *Professional Conduct and Advocacy*, K. V. Krishnaswami Aiyar in
 
 [Source](https://archive.org/stream/professionalcond029273mbp/professionalcond029273mbp_djvu.txt)
 
-# 1. Law as a Great Profession
+### 1. Law as a Great Profession
 
 Aiyar describes law as one of the greatest and most attractive peaceful professions. It is a controlling and unifying institution because it:
 
@@ -22,7 +22,7 @@ Aiyar describes law as one of the greatest and most attractive peaceful professi
 
 The legal profession therefore serves both the individual client and the wider community.
 
-## 2. A Learned Profession
+### 2. A Learned Profession
 
 The legal profession is called a learned profession because it requires knowledge, study and intellectual ability. Law is not simply a collection of rules; it is a science concerned with distinguishing right from wrong and establishing justice.
 
