@@ -71,9 +71,16 @@ export default function Home() {
           />
 
           <SubjectCard
+            title="⚖️ Professional Ethics"
+            description="Legal profession, Bar Councils and the Advocates Act."
+            link="/docs/professional-ethics/legal-profession-in-india"
+          />
+
+          <SubjectCard
             title="⚖️ Jurisprudence"
             description="Schools of law and legal theories."
           />
+
 
           <SubjectCard title="📖 CPC" description="Civil Procedure Code notes." />
 
