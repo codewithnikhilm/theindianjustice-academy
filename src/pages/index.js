@@ -1,8 +1,18 @@
+// Drop-in replacement for: src/pages/index.js
+// Change vs. your current file: the logo now uses useBaseUrl() so it resolves
+// correctly under the /theindianjustice-academy/ base path (it was hardcoded
+// to "static/img/logo11.png", which 404s on GitHub Pages).
+// Everything else is structurally unchanged — the Paper & Ink look comes from
+// src/css/custom.css.
+
 import React from "react";
 import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
+import useBaseUrl from "@docusaurus/useBaseUrl";
 
 export default function Home() {
+  const logoUrl = useBaseUrl("/img/logo11.png");
+
   return (
     <Layout
       title="The Indian Justice Academy"
@@ -16,16 +26,17 @@ export default function Home() {
         }}
       >
         <div style={{ textAlign: "center", marginBottom: "60px" }}>
-        <img
-          src="static/img/logo11.png"
-          alt="The Indian Justice Academy"
-          style={{
-          width: "100px",
-          height: "100px",
-          objectFit: "contain",
-          }}
-          />  
-        <h1 style={{ fontSize: "3.5rem", marginBottom: "10px" }}>
+          <img
+            src={logoUrl}
+            alt="The Indian Justice Academy"
+            style={{
+              width: "100px",
+              height: "100px",
+              objectFit: "contain",
+            }}
+          />
+
+          <h1 style={{ fontSize: "3.5rem", marginBottom: "10px" }}>
             The Indian Justice Academy
           </h1>
 
@@ -33,17 +44,12 @@ export default function Home() {
             Learn Law. Think Justice.
           </p>
 
-          <Link
-            className="button button--primary button--lg"
-            to="/docs/intro"
-          >
+          <Link className="button button--primary button--lg" to="/docs/intro">
             📚 Start Learning
           </Link>
         </div>
 
-        <h2 style={{ textAlign: "center", marginBottom: "30px" }}>
-          Subjects
-        </h2>
+        <h2 style={{ textAlign: "center", marginBottom: "30px" }}>Subjects</h2>
 
         <div
           style={{
@@ -58,7 +64,7 @@ export default function Home() {
             link="/docs/category/land-laws"
           />
 
-           <SubjectCard
+          <SubjectCard
             title="🏞️ Registration Act"
             description="Notes, PYQs and important concepts."
             link="/docs/registration-act/registration-establishments"
@@ -69,15 +75,9 @@ export default function Home() {
             description="Schools of law and legal theories."
           />
 
-          <SubjectCard
-            title="📖 CPC"
-            description="Civil Procedure Code notes."
-          />
+          <SubjectCard title="📖 CPC" description="Civil Procedure Code notes." />
 
-          <SubjectCard
-            title="👮 BNS"
-            description="Bharatiya Nyaya Sanhita."
-          />
+          <SubjectCard title="👮 BNS" description="Bharatiya Nyaya Sanhita." />
 
           <SubjectCard
             title="🏠 Transfer of Property"
