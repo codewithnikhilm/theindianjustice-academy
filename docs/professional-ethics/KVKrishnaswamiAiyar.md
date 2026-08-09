@@ -36,7 +36,7 @@ The practice of law develops several important qualities in a lawyer:
 
 According to Aiyar, legal learning should also produce high standards of conduct. A lawyer who possesses knowledge but lacks honesty, judgment and moral character does not truly represent the ideals of the profession.
 
-## 3. An Independent Profession
+### 3. An Independent Profession
 
 Aiyar considers independence to be one of the most important features of the legal profession. A lawyer must be able to oppose injustice, tyranny and unlawful conduct without fear.
 
@@ -44,7 +44,7 @@ The lawyer’s independence is not merely a personal privilege. It is necessary 
 
 This independence gives lawyers a natural position of leadership in public life. Their education, judgment and experience with social problems enable them to guide public opinion and take part in important State services.
 
-## 4. Leadership and Social Influence
+### 4. Leadership and Social Influence
 
 The legal profession has traditionally produced leaders in public administration, politics and social reform. Aiyar explains that this leadership should not be based merely on the prestige of the profession. It must be earned through:
 
@@ -57,7 +57,7 @@ The legal profession has traditionally produced leaders in public administration
 
 A lawyer’s influence creates a corresponding responsibility. The more authority and respect a lawyer enjoys, the greater the duty to use that influence honestly and for lawful purposes.
 
-## 5. Criticism Against Lawyers
+### 5. Criticism Against Lawyers
 
 Aiyar recognises that lawyers are frequently criticised. Some people accuse them of:
 
@@ -72,13 +72,13 @@ The author treats much of this criticism as unfair or exaggerated. Lawyers are o
 
 In a complex society, disagreements concerning property, contracts, family relations, business and public rights are unavoidable. Someone must explain the law, present the evidence and assist the court. The lawyer performs this necessary function.
 
-## 6. Comparison with the Medical Profession
+### 6. Comparison with the Medical Profession
 
 Aiyar compares the legal profession with medicine. A doctor deals with physical illness, while a lawyer deals with disputes, rights and social injuries. Just as society needs doctors to protect physical health, it needs lawyers to protect legal rights and maintain the health of its legal system.
 
 The lawyer’s work may sometimes appear controversial because it involves opposing parties. Nevertheless, the lawyer’s assistance is essential for the judge to understand the facts, legal principles and competing claims.
 
-## 7. Reply to the Charge of Dishonesty
+### 7. Reply to the Charge of Dishonesty
 
 The author rejects the general accusation that lawyers are naturally dishonest or venal. He accepts that some members of every profession may act improperly, but the misconduct of a few should not be used to condemn the entire profession.
 
@@ -93,7 +93,7 @@ A lawyer’s reputation depends on public confidence. Dishonesty by advocates da
 
 Aiyar also suggests that the intensity of criticism directed at lawyers is partly a measure of their importance. A profession exercising considerable influence will naturally attract both supporters and critics.
 
-## 8. Responsibilities of the Profession
+### 8. Responsibilities of the Profession
 
 The legal profession has responsibilities both inside and outside the courtroom. These include:
 
@@ -107,13 +107,13 @@ The legal profession has responsibilities both inside and outside the courtroom.
 
 A lawyer must remember that professional success cannot be measured only by income or the number of cases won. The lawyer is also responsible for maintaining public confidence in the legal system.
 
-## Central Message
+### Central Message
 
 The main idea of the chapter is that the legal profession is a noble, learned and independent profession, but its privileges are accompanied by serious responsibilities. A lawyer’s education gives them influence and leadership, yet that influence must be controlled by integrity, courage and devotion to justice.
 
 ---
 
-# Chapter II: The Equipment of the Lawyer
+## Chapter II: The Equipment of the Lawyer
 
 In Chapter II of *Professional Conduct and Advocacy*, K. V. Krishnaswami Aiyar explains that a successful lawyer needs more than a law degree or the ability to speak well. The “equipment” of a lawyer consists of legal learning, broad knowledge, moral character, hard work, practical judgment and tact.
 
@@ -121,7 +121,7 @@ The chapter specifically discusses legal learning, wide-ranging ideas, moral exc
 
 [Source](https://ia801404.us.archive.org/25/items/in.ernet.dli.2015.212338/2015.212338.Professional-Conduct_text.pdf)
 
-## 1. Legal Learning
+### 1. Legal Learning
 
 The first and most important equipment of a lawyer is accurate and extensive legal learning. A lawyer should not merely memorise legal rules or pass examinations. Examination success alone does not prove that a person can practise law effectively.
 
@@ -136,7 +136,7 @@ A lawyer must be able to:
 
 Legal knowledge should be practical and usable. It must help the advocate identify the real issue in a case and find an appropriate legal solution.
 
-## 2. Wide Knowledge and Range of Ideas
+### 2. Wide Knowledge and Range of Ideas
 
 Aiyar states that a lawyer should possess both depth and breadth of knowledge. The advocate must know one subject thoroughly but should also have a general understanding of many other subjects.
 
@@ -150,7 +150,7 @@ This wider knowledge is useful because legal disputes arise from every area of l
 
 A lawyer who knows only legal rules may fail to understand the facts to which those rules must be applied. General education improves reasoning, conversation, judgment and the ability to understand witnesses and clients.
 
-## 3. Moral Excellence
+### 3. Moral Excellence
 
 Legal learning without moral character can become dangerous. Aiyar therefore gives great importance to honesty, integrity and moral excellence.
 
@@ -165,7 +165,7 @@ A lawyer must be:
 
 The advocate’s duty is not to win a case by every possible means. The lawyer must pursue the client’s lawful interests without misleading the court or assisting fraud. Character is therefore an essential part of professional equipment, not an optional personal virtue.
 
-## 4. Industry and Hard Work
+### 4. Industry and Hard Work
 
 The legal profession requires continuous and intensive work. A lawyer must read, investigate, prepare and think about cases repeatedly. Natural intelligence or eloquence cannot replace industry.
 
@@ -180,7 +180,7 @@ Hard work involves:
 
 Aiyar refers to the example of Mr. S. Srinivasa Iyengar to illustrate the importance of extraordinary preparation and sustained effort. The lesson is that professional excellence is normally the result of disciplined work rather than talent alone.
 
-## 5. The Seven Lamps of Advocacy
+### 5. The Seven Lamps of Advocacy
 
 The chapter refers to Justice Edward Abbott Parry’s Seven Lamps of Advocacy. These qualities are:
 
@@ -194,7 +194,7 @@ The chapter refers to Justice Edward Abbott Parry’s Seven Lamps of Advocacy. T
 
 These qualities must work together. Eloquence without knowledge is weak, knowledge without judgment is ineffective and courage without honesty can become recklessness.
 
-## 6. Tact as an Additional Quality
+### 6. Tact as an Additional Quality
 
 Aiyar treats tact as an eighth lamp of advocacy. Tact means the ability to deal with people and situations carefully, respectfully and intelligently.
 
@@ -209,25 +209,25 @@ A tactful advocate knows:
 
 Tact does not mean dishonesty or manipulation. It is the practical wisdom that allows a lawyer to use learning, courage and eloquence effectively.
 
-## Central Message
+### Central Message
 
 The chapter teaches that the complete equipment of a lawyer is a combination of intellectual ability, ethical character and practical skill. The advocate must study law deeply, develop broad knowledge, work continuously, maintain integrity and cultivate the qualities represented by the Seven Lamps of Advocacy.
 
 ---
 
-# Chapter III: Hints for Law Studies
+## Chapter III: Hints for Law Studies
 
 The title of Chapter III is “Hints for Law Studies”—not “Hinds for Law Studies.” In this chapter of *Professional Conduct and Advocacy*, K. V. Krishnaswami Aiyar gives practical advice to law students and young advocates on how to study law effectively and develop useful professional knowledge.
 
 [Source](https://ia801404.archive.org/25/items/in.ernet.dli.2015.212338/2015.212338.Professional-Conduct_text.pdf)
 
-## 1. Law Is a Vast Science
+### 1. Law Is a Vast Science
 
 Aiyar begins by stating that law is an extensive and constantly developing subject. No lawyer can know every part of it completely. As a person studies law more deeply, they become more conscious of the areas that still require study.
 
 Therefore, a student should not be overconfident after passing examinations or reading a few textbooks. Legal education is only the beginning of professional learning.
 
-## 2. Study Law, Do Not Merely Read It
+### 2. Study Law, Do Not Merely Read It
 
 The author makes an important distinction between reading law and studying law. Reading means passing through the pages of a book, while studying requires careful understanding, analysis and retention.
 
@@ -242,7 +242,7 @@ A student should:
 
 Aiyar advises the student to act as a *prativadi*, or opponent, against their own argument. This means examining one’s own conclusion from the opposite side before presenting it in court.
 
-## 3. Repetition and Memory
+### 3. Repetition and Memory
 
 Law must be studied repeatedly. Reading a provision once or twice does not mean that it has been properly understood. Repeated study gradually improves accuracy and strengthens memory.
 
@@ -256,7 +256,7 @@ However, the author does not recommend mechanical memorisation. Useful legal mem
 
 The lawyer should organise legal knowledge through classification and association. Properly arranged knowledge is more useful than a large collection of disconnected cases.
 
-## 4. Make Systematic Notes
+### 4. Make Systematic Notes
 
 Aiyar advises students to make notes of new ideas, important principles and useful cases. These notes should be:
 
@@ -268,7 +268,7 @@ Aiyar advises students to make notes of new ideas, important principles and usef
 
 Unorganised notes may create confusion instead of helping the student. Preparing case headnotes and recording the principle decided in a judgment can improve both understanding and memory.
 
-## 5. Study with an Enquiring Mind
+### 5. Study with an Enquiring Mind
 
 The student should cultivate a spirit of research and should not accept every statement without examination. This does not mean that a lawyer must remain permanently uncertain. Rather, the lawyer should investigate a proposition carefully before confidently presenting it.
 
@@ -283,7 +283,7 @@ While studying a case, the student should ask:
 
 This method develops legal reasoning instead of mere information-based learning.
 
-## 6. Study Through Actual Cases
+### 6. Study Through Actual Cases
 
 Aiyar recommends that lawyers use the preparation of actual cases as an opportunity for serious study. When a client brings a matter involving a particular branch of law, the advocate should not be satisfied with finding one or two authorities.
 
@@ -297,7 +297,7 @@ The lawyer should study:
 
 Thorough study of one subject in connection with a real case builds confidence and gradually creates a strong foundation of legal knowledge.
 
-## 7. Use Leisure for Legal Learning
+### 7. Use Leisure for Legal Learning
 
 The author advises young lawyers to use their available time productively. Instead of spending all leisure time on light reading, they should keep useful law books available and read them regularly.
 
@@ -313,7 +313,7 @@ He suggests reading standard works on subjects such as:
 
 The objective is not to read every book completely but to become familiar with important legal principles and authoritative texts.
 
-## 8. Read Law Reports and Use Legal Language
+### 8. Read Law Reports and Use Legal Language
 
 Aiyar gives special importance to reading judgments and law reports. He recommends studying decisions of the House of Lords and the Privy Council, even when a particular case does not directly concern Indian law.
 
@@ -328,7 +328,7 @@ Such reading helps a lawyer to:
 
 A lawyer should learn the language of law because legal expression often conveys a precise meaning that ordinary words cannot fully communicate.
 
-## 9. Know the Law Library and Law Reports
+### 9. Know the Law Library and Law Reports
 
 A lawyer need not own a large library merely for appearance. Books are valuable only when they are actually used. Before purchasing books, a student should know:
 
@@ -341,7 +341,7 @@ A lawyer need not own a large library merely for appearance. Books are valuable 
 
 The lawyer should also understand the system of law reporting and become familiar with the citation of Indian, English and older reports. This makes legal research faster and more reliable.
 
-## 10. Important Branches of Law and Procedure
+### 10. Important Branches of Law and Procedure
 
 The chapter emphasises that a practising lawyer must know more than the principal subject studied for examinations. Aiyar particularly stresses the importance of the Indian Evidence Act and its practical application in court.
 
@@ -360,13 +360,13 @@ He also advises lawyers to study or become familiar with:
 
 This practical knowledge is especially important for lawyers conducting litigation in trial courts. The advocate should be capable of performing the essential work that might otherwise be left entirely to a clerk.
 
-## Central Message
+### Central Message
 
 The chapter’s central message is that legal education must be continuous, practical and systematic. A good lawyer studies law deeply, revises it repeatedly, researches with curiosity, keeps organised notes, reads judgments and remains familiar with statutes, reports and court rules.
 
 ---
 
-# Chapter IV: Training Grounds
+## Chapter IV: Training Grounds
 
 In Chapter IV, “Training Grounds,” K. V. Krishnaswami Aiyar explains where and how a young lawyer should obtain practical training. He identifies two principal training grounds: the chambers of a senior practitioner and the court-house.
 
@@ -374,7 +374,7 @@ Legal education in books is necessary, but practical experience is essential for
 
 [Source](https://www.sci.gov.in/lawyers-chamber-allotment/)
 
-## 1. Attend the Chambers of a Senior
+### 1. Attend the Chambers of a Senior
 
 Aiyar strongly advises every young lawyer to work in the chambers of an experienced senior. He refers to the traditional view that a young lawyer learns the practical “mechanism” of legal work by observing a skilled practitioner.
 
@@ -391,7 +391,7 @@ Working in a senior’s chamber helps a beginner to:
 
 The purpose of working with a senior is not to remain dependent forever. It is a preparatory stage through which a young lawyer develops the confidence and ability to stand independently.
 
-## 2. Put Forth the Best Effort
+### 2. Put Forth the Best Effort
 
 A young lawyer should work in the senior’s chamber with complete sincerity. Even when the work is difficult or unpaid, it should be performed carefully and thoroughly.
 
@@ -408,7 +408,7 @@ The junior should:
 
 A junior can build a good professional reputation by making genuine efforts. A senior will value an assistant who is dependable, hardworking and capable of producing useful legal ideas.
 
-## 3. Learn Through Observation and Discussion
+### 3. Learn Through Observation and Discussion
 
 The chamber provides an opportunity to learn through direct observation. A young lawyer should listen carefully to discussions between seniors, juniors, clients and other lawyers.
 
@@ -423,7 +423,7 @@ The junior should not hesitate to ask questions at the appropriate time. Discuss
 
 Aiyar’s advice encourages active learning rather than passive attendance. The young lawyer should observe, think, prepare and gradually participate in the work.
 
-## 4. Show Professional Qualities
+### 4. Show Professional Qualities
 
 While working in a senior’s chamber, a young lawyer should cultivate professional discipline and good relationships. Aiyar emphasises respect for seniors, sympathy towards juniors and cooperation with fellow members of the profession.
 
@@ -440,7 +440,7 @@ The important qualities include:
 
 A lawyer should not be selfish or treat colleagues merely as competitors. The Bar is a professional community, and its dignity depends on mutual respect and cooperation.
 
-## 5. The Court-House as a Training Ground
+### 5. The Court-House as a Training Ground
 
 The second major training ground is the court-house. Aiyar advises young lawyers not to stay away from court merely because they have no case to conduct on a particular day.
 
@@ -459,7 +459,7 @@ Regular attendance helps a young lawyer become familiar with the court environme
 
 [Source](https://archive.org/stream/professionalcond029273mbp/professionalcond029273mbp_djvu.txt)
 
-## 6. Learn from Trials
+### 6. Learn from Trials
 
 A careful study of a trial from beginning to end is a valuable legal education. By observing actual proceedings, the young lawyer can learn:
 
@@ -473,7 +473,7 @@ A careful study of a trial from beginning to end is a valuable legal education. 
 
 Aiyar also advises young lawyers to learn from the mistakes of others. Observing a poorly prepared case, an ineffective argument or improper courtroom conduct can teach valuable lessons about what should be avoided.
 
-## 7. Use Special Opportunities
+### 7. Use Special Opportunities
 
 Presence in court may create opportunities for a young lawyer to become known to seniors, judges and members of the Bar. Such opportunities should be used through ability and hard work, not through improper self-promotion.
 
@@ -490,19 +490,19 @@ Aiyar cautions, in substance, that merely collecting many case citations is not 
 
 [Source](https://archive.org/stream/professionalcond029273mbp/professionalcond029273mbp_djvu.txt)
 
-## Central Message
+### Central Message
 
 The chapter teaches that a young lawyer is trained through practical exposure, observation and disciplined service. A senior’s chamber teaches the methods of legal work, while the court-house teaches the realities of advocacy and judicial proceedings.
 
 ---
 
-# Chapter V: Meeting Clients
+## Chapter V: Meeting Clients
 
 In Chapter V, “Meeting Clients,” K. V. Krishnaswami Aiyar explains how a lawyer should receive, interview and advise a client. The chapter emphasises sympathy, patience, careful investigation, independent judgment, confidence and fair settlement of fees.
 
 [Source](https://archive.org/stream/professionalcond029273mbp/professionalcond029273mbp_djvu.txt)
 
-## 1. Receive the Client with Kindness
+### 1. Receive the Client with Kindness
 
 A client usually approaches a lawyer because of anxiety, difficulty or fear. The lawyer should therefore receive the client courteously and create an atmosphere of trust.
 
@@ -517,7 +517,7 @@ Aiyar advises the advocate to:
 
 The client may not know which facts are legally important. Therefore, the lawyer should first listen fully and then ask suitable questions.
 
-## 2. Make Careful Inquiries
+### 2. Make Careful Inquiries
 
 After hearing the client’s version, the lawyer must investigate the facts independently. The advocate should not prepare a case merely on the client’s first statement.
 
@@ -534,7 +534,7 @@ The lawyer should inquire about:
 
 A proper inquiry helps the advocate discover the real nature of the dispute and prevents errors caused by incomplete information.
 
-## 3. Do Not Believe Everything Blindly
+### 3. Do Not Believe Everything Blindly
 
 Aiyar warns lawyers not to accept every statement made by a client without verification. A client may unintentionally omit facts, misunderstand the law or deliberately conceal an inconvenient circumstance.
 
@@ -549,7 +549,7 @@ The lawyer should therefore:
 
 This does not mean that the lawyer should treat every client as dishonest. It means that professional judgment must be based on verified facts rather than blind confidence.
 
-## 4. Inspire Confidence Through Conduct
+### 4. Inspire Confidence Through Conduct
 
 A lawyer’s conduct should inspire confidence in the client. Confidence is created not by exaggerated promises but by calm, clear and honest behaviour.
 
@@ -566,7 +566,7 @@ The advocate should:
 
 The lawyer must not create false hope by claiming that victory is guaranteed. Honest advice, even when unfavourable, is more valuable than comforting but misleading assurances.
 
-## 5. Offering Opinions and Advice
+### 5. Offering Opinions and Advice
 
 Before giving an opinion, the lawyer should make sure that the facts have been sufficiently investigated and the relevant law has been studied. An opinion should be based on reasoned analysis rather than instinct or a desire to please the client.
 
@@ -582,7 +582,7 @@ A proper legal opinion should:
 
 The lawyer should not encourage litigation merely because the client is willing to pay. If the case is weak, dishonest or legally unsustainable, the advocate should advise the client accordingly.
 
-## 6. Fixing the Fee
+### 6. Fixing the Fee
 
 Aiyar gives practical guidance about settling professional fees. The fee should be discussed and settled at the earliest reasonable opportunity. This avoids later misunderstanding between the lawyer and the client.
 
@@ -599,19 +599,19 @@ The guiding principles are:
 
 Aiyar’s advice may be summarised as follows: the fee should be fair to both sides. The lawyer should neither exploit the client nor reduce professional work to a mere competition for the lowest fee.
 
-## 7. Treat Poor Clients Fairly
+### 7. Treat Poor Clients Fairly
 
 The author does not support rejecting a deserving case solely because the client is unable to pay a substantial fee. A lawyer should consider whether the case is meritorious and whether there is a proper reason for accepting or refusing it.
 
 This does not mean that every advocate must accept every unpaid case. It means that poverty alone should not be treated as proof that a client has no right to legal assistance. The professional duty to justice should sometimes influence the lawyer’s decision.
 
-## Central Message
+### Central Message
 
 The chapter teaches that the first meeting with a client is both a professional and ethical responsibility. A lawyer must listen with sympathy, investigate carefully, maintain independence, give honest advice and settle fees fairly.
 
 ---
 
-# Chapter VI: The Preparation of a Case
+## Chapter VI: The Preparation of a Case
 
 Chapter VI of *Professional Conduct and Advocacy* by K. V. Krishnaswami Aiyar explains how an advocate should prepare a case before presenting it in court. The author compares litigation to warfare, where success depends not only on courage or speaking ability but also on careful strategy, accurate information, preparation of evidence and anticipation of the opponent’s moves.
 
@@ -619,7 +619,7 @@ The chapter covers preparation for both trial proceedings and appellate hearings
 
 [Source](https://ia801404.us.archive.org/25/items/in.ernet.dli.2015.212338/2015.212338.Professional-Conduct_text.pdf)
 
-## 1. Form a Clear Plan
+### 1. Form a Clear Plan
 
 The first duty of an advocate is to form a complete plan of the case. The advocate should:
 
@@ -632,7 +632,7 @@ The first duty of an advocate is to form a complete plan of the case. The advoca
 
 A good lawyer must possess a strong selective faculty—the ability to select important facts and reject unnecessary material. At the same time, the lawyer must have an eye for small details because apparently minor facts may become important during examination or argument.
 
-## 2. Study the Documents and Investigate the Facts
+### 2. Study the Documents and Investigate the Facts
 
 The advocate should carefully examine every document connected with the case. Merely listening to the client is not sufficient; the lawyer must verify the client’s statements by studying records and making necessary inquiries.
 
@@ -645,7 +645,7 @@ The documents should be:
 
 The author stresses that the lawyer must prepare the case on the basis of facts rather than blindly accepting the client’s version. Proper preparation also involves local inspection, obtaining information from persons who know the facts and examining the surrounding circumstances.
 
-## 3. Study the Law Thoroughly
+### 3. Study the Law Thoroughly
 
 Only after understanding the facts should the advocate study the law. Aiyar advises lawyers not to look merely for isolated authorities through an index. Instead, they should study the relevant chapter, statute or legal principle as a whole.
 
@@ -662,7 +662,7 @@ The advocate should:
 
 The underlying lesson is that a lawyer must not depend upon superficial research. Legal preparation must be exhaustive because an opponent or judge may raise an issue that the advocate initially considered unimportant.
 
-## 4. Prepare for the Trial
+### 4. Prepare for the Trial
 
 In an original trial, the advocate should use all lawful procedural methods available for discovering and establishing the truth. This may include interrogatories, discovery of documents, inspection and commissions.
 
@@ -673,7 +673,7 @@ The advocate’s preparation should aim at two objectives:
 
 The author does not mean that advocacy should become unfair or dishonest. The opponent’s case must be challenged through proper legal methods and reliable evidence.
 
-## 5. Prepare the Evidence and Witnesses
+### 5. Prepare the Evidence and Witnesses
 
 Witness preparation is a major part of case preparation. The advocate should take a proper proof or statement from each witness beforehand. This helps the lawyer understand:
 
@@ -687,7 +687,7 @@ The lawyer should also observe the demeanour of witnesses—whether they appear 
 
 The evidence must be complete enough to satisfy legal and procedural requirements. Formal defects in proof can weaken an otherwise strong case.
 
-## 6. Prepare for Cross-Examination
+### 6. Prepare for Cross-Examination
 
 Cross-examination should not be conducted randomly. Before entering court, the advocate should prepare the important questions and decide what facts must be obtained from the opponent’s witnesses.
 
@@ -702,7 +702,7 @@ The purposes of cross-examination include:
 
 The advocate should keep proper notes and use documents intelligently. Cross-examination is not an opportunity for theatrical performance or personal hostility. It must be controlled, purposeful and connected with the issues in dispute.
 
-## 7. Arrange Papers Properly
+### 7. Arrange Papers Properly
 
 A lawyer’s papers should be arranged so that every document and fact can be found quickly during the hearing. Important materials should be indexed and placed in a logical order.
 
@@ -720,7 +720,7 @@ Proper arrangement should include:
 
 Disorganised papers can cause delay, confusion and loss of confidence in court. Good filing and note-making are therefore essential parts of professional competence.
 
-## 8. Preparation for Appellate Hearings
+### 8. Preparation for Appellate Hearings
 
 Preparation in an appeal follows the same basic principles, but the advocate must pay special attention to the judgment of the lower court.
 
@@ -737,7 +737,7 @@ The lawyer should:
 
 An appeal should not be argued merely by repeating the facts or expressing dissatisfaction with the decision. The advocate must demonstrate precisely why the judgment is legally or factually incorrect.
 
-## 9. Rehearse and Think Repeatedly
+### 9. Rehearse and Think Repeatedly
 
 Aiyar emphasises repeated study and reflection. An advocate should think about the case before the hearing from different angles:
 
@@ -750,4 +750,4 @@ Aiyar emphasises repeated study and reflection. An advocate should think about t
 
 Rehearsing the argument is not a sign of weakness. It enables the advocate to speak clearly, avoid omissions and answer questions confidently. Even a seemingly simple case must be properly prepared.
 
-##
+
