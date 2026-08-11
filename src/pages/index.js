@@ -77,6 +77,12 @@ export default function Home() {
           />
 
           <SubjectCard
+            title="🏞️ Advocates Act 1961"
+            description=""
+            link="/docs/category/land-laws"
+          />
+
+          <SubjectCard
             title="⚖️ Jurisprudence"
             description="Schools of law and legal theories."
           />
