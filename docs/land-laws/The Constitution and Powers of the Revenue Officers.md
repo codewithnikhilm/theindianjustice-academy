@@ -2,117 +2,276 @@
 title: The Constitution and Powers of the Revenue Officers
 sidebar_position: 4
 ---
-The Constitution and Powers of the Revenue Officers are detailed in Chapter II of The Karnataka Land Revenue Act, 1964. 
 
-Constitution and Hierarchy of Revenue Officers 
+# The Constitution and Powers of Revenue Officers
 
-The structure of Revenue Officers and their chain of command begins with the State Government as the ultimate authority. 
+The constitution and powers of Revenue Officers are detailed in **Chapter II of the Karnataka Land Revenue Act, 1964**.
 
-# **Section 03 to 23.** 
+This chapter explains the administrative divisions, hierarchy, appointment, subordination, powers and duties of Revenue Officers.
 
-# **1. Administrative Divisions** 
+# Sections 3 to 23
 
-The State Government has the authority to determine and alter the areas of administrative divisions through notification. 
+## Constitution and Hierarchy of Revenue Officers
 
-- The State is divided into **Regions** . 
+The structure of Revenue Officers and their chain of command begins with the State Government as the ultimate authority.
 
-- Each Region is divided into **Districts** . 
+## 1. Administrative Divisions
 
-- Each District consists of **Taluks** . 
+The State Government has the authority to determine and alter the areas of administrative divisions by issuing a notification.
 
-- Each Taluk consists of **Circles** . 
+The administrative structure is as follows:
 
-- Each Circle consists of **Villages** . 
+- The State is divided into **Regions**.
+- Each Region is divided into **Districts**.
+- Each District consists of **Taluks**.
+- Each Taluk consists of **Circles**.
+- Each Circle consists of **Villages**.
 
-• The State Government may alter the limits, amalgamate, or constitute new villages, districts, taluks, or circles. When doing so, the Government must generally publish a notice inviting objections, unless it considers such publication unnecessary. 
+The State Government may:
 
-# **2. Key Revenue Officers and their Subordination** 
+- Alter the limits of existing villages, districts, taluks or circles.
+- Amalgamate two or more villages, districts, taluks or circles.
+- Constitute new villages, districts, taluks or circles.
 
-|Ofcer|Appointment and Subordinaton|
+Before making such changes, the Government must generally publish a notice inviting objections. However, publication of such notice may be dispensed with if the Government considers it unnecessary.
+
+## 2. Key Revenue Officers and Their Subordination
+
+| Revenue Officer | Appointment and Subordination |
 |---|---|
-|**State Government**|**Chief controlling authority**in all maters connected with land and land<br>revenue administraton under the Act.|
-|**Regional**|Appointed for each Region. Subject to the control of the State Government,|
-|**Commissioner (RC)**|the RC is the Chief Revenue Ofcer in the region and exercises<br>superintendence and control over all subordinate ofcers within the region.|
-|**Deputy**<br>**Commissioner (DC)**|Appointed for each district. Subordinate to the Regional Commissioner.|
-|**Special Deputy**|Appointed for a district for a specifed purpose and period. Subordinate to|
-|**Commissioner (SDC)**|<br>the Regional Commissioner and the Deputy Commissioner, except in maters<br>specifed by the State Government.|
-|**Assistant**<br>**Commissioners (AC)**|Appointed by the State Government for each district. They are subordinate<br>to the Regional Commissioner or Deputy Commissioner. An AC may be<br>placed in charge of a Revenue Sub-Division (one or more taluks).|
+| **State Government** | The chief controlling authority in all matters connected with land and land-revenue administration under the Act. |
+| **Regional Commissioner** | Appointed for each Region. Subject to the control of the State Government, the Regional Commissioner is the chief Revenue Officer in the Region and exercises superintendence and control over all subordinate officers within the Region. |
+| **Deputy Commissioner** | Appointed for each District. The Deputy Commissioner is subordinate to the Regional Commissioner. |
+| **Special Deputy Commissioner** | Appointed for a District for a specified purpose and period. The Special Deputy Commissioner is subordinate to the Regional Commissioner and the Deputy Commissioner, except in matters specified by the State Government. |
+| **Assistant Commissioner** | Appointed by the State Government for each District. The Assistant Commissioner is subordinate to the Regional Commissioner or Deputy Commissioner and may be placed in charge of a Revenue Sub-Division consisting of one or more taluks. |
+| **Tahsildar** | Appointed for each Taluk and serves as the chief officer responsible for land-revenue administration of the Taluk. The Tahsildar is subordinate to the Assistant Commissioner, or to the Deputy Commissioner where no Assistant Commissioner is in charge. |
+| **Special Tahsildar** | Appointed for a Taluk for a specified purpose and period. The Special Tahsildar is subordinate to the Assistant Commissioner, or to the Deputy Commissioner where there is no Assistant Commissioner, and is also subordinate to the Tahsildar except in matters specified by the State Government. |
+| **Revenue Inspector** | Appointed by the Deputy Commissioner for each Circle. The Revenue Inspector is subject to the general orders of the Regional Commissioner or the State Government. |
+| **Village Accountant** | Appointed by the Deputy Commissioner for a village or group of villages. The Village Accountant is subject to the general orders of the State Government and the Regional Commissioner. |
 
+## 3. Survey Officers
 
+The State Government appoints Survey Officers for the following purposes:
 
-**Tahsildars** Appointed for each taluk and is the Chief Officer entrusted with land revenue administration of the Taluk. Subordinate to the Assistant Commissioner (or the Deputy Commissioner if there is no AC in charge). **Special Tahsildars** Appointed for any Taluk for a specified purpose and period. Subordinate to the Assistant Commissioner (or DC if no AC) and also subordinate to the Tahsildar, except in matters specified by the State Government. **Revenue Inspectors** Appointed by the Deputy Commissioner for each circle, subject to the general orders of the Regional Commissioner or the State Government. **Village Accountant** Appointed by the Deputy Commissioner for a village or group of villages, subject to the general orders of the State Government and the Regional Commissioner. 
+- Survey of land.
+- Assessment of land revenue.
+- Settlement of land revenue.
+- Settlement of boundaries.
 
-# **3. Survey Officers** 
+These officers may be designated as follows:
 
-The State Government appoints **Survey Officers** for purposes of survey, assessments, and settlements of land revenue, and the settlement of boundaries. These officers may be designated as: 
+- **Director of Survey, Settlement and Land Records**.
+- **Joint Director of Land Records** or **Joint Director for Settlement**.
+- **Deputy Director of Land Records** or **Deputy Director for Settlement**.
+- **Assistant Director for Settlement** or **Assistant Director of Land Records**.
+- **Settlement Officers** and **Assistant Settlement Officers**.
+- Any other designation prescribed by the State Government.
 
-- **Director of Survey Settlement and Land Records** . 
+The State Government may also appoint **Licensed Surveyors** possessing the prescribed qualifications and experience.
 
-- **Joint Director of Land Records** or **Joint Director for Settlement** . 
+Licensed Surveyors may prepare sketches for partitions and alienations with the prior approval of the State Government.
 
-- **Deputy Director of Land Records** or **Deputy Director for Settlement** . 
+## 4. Combination of Offices and Temporary Succession
 
-• **Assistant Director for Settlement** or **Assistant Director of Land Records** . 
+### A. Combination of Offices
 
-• Settlement Officers and Assistant Settlement Officers, or otherwise, as the State Government sees fit. 
+The State Government may lawfully:
 
-The State Government may also appoint **Licensed Surveyors** (with prescribed qualifications and experience) to prepare sketches for partitions and alienations, with the prior approval of the State Government. 
+- Appoint the same person to two or more offices provided for in Chapter II.
+- Confer upon an officer of one denomination all or any of the powers or duties of another officer.
 
-# **4. Combination and Vacancy** 
+### B. Temporary Succession during Vacancy or Disability
 
-• The State Government may lawfully **appoint the same person to any two or more offices** provided for in Chapter II, or confer upon an officer of one denomination all or any of the powers or duties of any other officer. 
+The Act specifies who may temporarily succeed to an office during a vacancy or disability:
 
-• The Act specifies who shall temporarily succeed to an office during a vacancy or disability: for the Regional Commissioner, it is the Deputy Commissioner stationed at the headquarters; for the Deputy Commissioner, it is the Special Deputy Commissioner, or the senior most Assistant Commissioner; for an Assistant Commissioner, it is the Tahsildar at the headquarters; and for a Tahsildar, it is the Special Tahsildar or the senior most ministerial officer. 
+| Office | Officer who may temporarily succeed |
+|---|---|
+| **Regional Commissioner** | The Deputy Commissioner stationed at the headquarters. |
+| **Deputy Commissioner** | The Special Deputy Commissioner or the senior-most Assistant Commissioner. |
+| **Assistant Commissioner** | The Tahsildar stationed at the headquarters. |
+| **Tahsildar** | The Special Tahsildar or the senior-most ministerial officer. |
 
--------------------------------------------------------------------------------- 
+---
 
-**<u>Powers and Dutes of Revenue Ofcers:</u>** 
+# Powers and Duties of Revenue Officers
 
-# **1. Functions as Revenue Courts and Inquiry Powers:** 
+## 1. Functions as Revenue Courts and Inquiry Powers
 
-• **Revenue Court Status:** A Revenue Officer, not below the rank of a Tahsildar, is deemed a **Revenue Court** when exercising power under the Act to inquire into or decide any question arising between the State Government and any person, or between parties to any proceedings. 
+### A. Revenue Court Status
 
-• **Inherent Powers:** Revenue Courts possess inherent power to make necessary orders for the ends of justice or to prevent the abuse of process. 
+A Revenue Officer not below the rank of a Tahsildar is deemed to be a **Revenue Court** when exercising powers under the Act to inquire into or decide:
 
-• **Location of Proceedings:** Generally, a Revenue Officer must hold inquiries or hearings within the local limits of their jurisdiction, unless reasons are recorded in writing, or if their headquarters is outside those limits. 
+- Any question arising between the State Government and any person; or
+- Any question arising between parties to a proceeding.
 
-• **Power to Take Evidence:** Every Revenue Officer not lower in rank than a Tahsildar or an Assistant Director of Land Records has the power to take evidence on oath, summon persons (as parties or witnesses), and require the production of documents for any authorized inquiry. 
+### B. Inherent Powers
 
-• **Attendance and Compulsion:** Persons summoned must attend, either personally or via an authorized agent, unless exempted under the Code of Civil Procedure, 1908. Failure to comply with a summons may result in the officer issuing a bailable warrant of arrest, ordering security for appearance, or imposing a fine not exceeding twenty rupees. 
+Revenue Courts possess the inherent power to make necessary orders for:
 
-• **Formal and Summary Inquiry:** The Act provides for formal inquiry (evidence taken down in full, written decision/order with full statement of grounds) and summary inquiry (summary of evidence and minute of proceedings recorded by the officer). Both formal and summary inquiries are deemed **judicial proceedings** for the purposes of the Indian Penal Code. 
+- Securing the ends of justice; or
+- Preventing the abuse of the process of the Court.
 
-• **Power of Entry:** Revenue Officers (or their subordinates/workmen under their control) may enter any land or premises for purposes connected with the lawful exercise of their office, such as measurement, fixing boundaries, classification of soil, or assessment. Previous notice of not less than seven days must be given before entering a dwelling house or attached court/garden without the occupier's consent. 
+### C. Location of Proceedings
 
-# **2. Case Transfer and Administration:** 
+Generally, a Revenue Officer must conduct inquiries or hearings within the local limits of the officer's jurisdiction.
 
-• **Transfer of Cases:** The **Tribunal** may transfer cases between Regional Commissioners. The **Regional Commissioner** may transfer cases between Revenue Officers competent to deal with it within the same region or district. The **Deputy Commissioner** may transfer cases from his file or the file of any subordinate Revenue Officer to another competent subordinate officer, or withdraw a case to his own file. 
+An exception may be made when:
 
-• **Tahsildar/Special Tahsildar Duties:** They may depute subordinates to perform ministerial duties, subject to the revision and confirmation by the delegating officer. 
+- The officer records reasons in writing; or
+- The headquarters of the officer is situated outside those local limits.
 
-• **Village Accountant Duties:** The Village Accountant must keep prescribed registers, accounts, and records, and prepare all records connected with village affairs required by the Central or State Government, or the public, when called upon by a superior revenue officer. 
+### D. Power to Take Evidence
 
-• **Seals:** Specified Revenue Officers must use a seal of a prescribed size and description. 
+Every Revenue Officer not lower in rank than a Tahsildar or an Assistant Director of Land Records has the power to:
 
-# **<u>3. Recovery of Public Money and Property:</u>** 
+- Take evidence on oath.
+- Summon persons as parties or witnesses.
+- Require the production of documents.
 
-• **Demand Authority:** The Deputy Commissioner or the Joint Director of Land Records or the Joint Director for Settlement, or an appointed officer, can demand public money, papers, or government property detained by any Revenue Officer or former employee. 
+These powers may be exercised in any inquiry authorised under the Act.
 
-• **Enforcement:** If the demand is not met, the Deputy Commissioner or Joint Director may cause the person to be apprehended and confined in civil jail for a period not exceeding ninety days. 
+### E. Attendance and Compulsion
 
-• **Recovery:** Public moneys due may be recovered using the same manner and rules applicable to the recovery of arrears of land revenue. 
+A person summoned by a Revenue Officer must attend either:
 
-• **Search Warrant:** The Deputy Commissioner may issue a search warrant for recovering public papers or property, exercising powers equivalent to those of a Magistrate under the Code of Criminal Procedure, 1898. 
+- Personally; or
+- Through an authorised agent,
 
-# **<u>4. Evicton and Land Administraton Powers</u>** 
+unless the person is exempted under the Code of Civil Procedure, 1908.
 
-• **Eviction Procedure:** When the Act provides for eviction or an order to deliver possession, the process involves serving a notice to vacate, removing refusers using a subordinate officer, and if resistance occurs, holding a summary inquiry and using reasonable force to secure compliance if the resistance is found to be without just cause. 
+Failure to comply with a summons may result in the officer:
 
-• **Summary Eviction (Tahsildar):** The Tahsildar may summarily evict any person unauthorizedly occupying or wrongfully in possession of land that is not transferable due to a condition annexed to the tenure (under sections 91, 98, or 99). 
+- Issuing a bailable warrant of arrest.
+- Ordering security for appearance.
+- Imposing a fine not exceeding twenty rupees.
 
-• **Forfeiture (Tahsildar):** The Tahsildar may declare an occupancy or alienated holding forfeited to the State Government for non-payment of land revenue. However, forfeiture is prohibited if the arrears of land revenue due does not exceed ten thousand rupees. 
+### F. Formal and Summary Inquiry
 
-• **Recovery of Value:** The Tahsildar decides the value of any natural product unauthorizedly removed from government property. 
+The Act recognises two forms of inquiry:
 
-• **Disposal of Land (DC/RC/Tahsildar):** Subject to prescribed rules, the State Government, the Regional Commissioner, the Deputy Commissioner, the Assistant Commissioner in charge of a Taluk or Taluks, and the Tahsildar may dispose of land or other property belonging to the State Government. 
+#### Formal Inquiry
 
+In a formal inquiry:
+
+- Evidence is recorded in full.
+- A written decision or order is prepared.
+- The decision or order contains a complete statement of the grounds.
+
+#### Summary Inquiry
+
+In a summary inquiry:
+
+- A summary of the evidence is recorded.
+- A brief record or minute of the proceedings is prepared by the officer.
+
+Both formal and summary inquiries are deemed to be **judicial proceedings** for the purposes of the Indian Penal Code.
+
+### G. Power of Entry
+
+Revenue Officers, or their subordinates and workmen acting under their control, may enter any land or premises for purposes connected with the lawful exercise of their office.
+
+Such purposes may include:
+
+- Measuring land.
+- Fixing boundaries.
+- Classifying soil.
+- Assessing land revenue.
+- Performing any other lawful official function.
+
+Before entering a dwelling house or an attached court or garden without the consent of the occupier, previous notice of not less than seven days must generally be given.
+
+## 2. Transfer of Cases and Administration
+
+### A. Transfer of Cases
+
+The following authorities may transfer or withdraw cases:
+
+- The **Tribunal** may transfer cases between Regional Commissioners.
+- The **Regional Commissioner** may transfer cases between Revenue Officers competent to deal with them within the same Region or District.
+- The **Deputy Commissioner** may transfer a case from his or her own file, or from the file of any subordinate Revenue Officer, to another competent subordinate officer.
+- The Deputy Commissioner may also withdraw a case to his or her own file.
+
+### B. Duties of the Tahsildar and Special Tahsildar
+
+The Tahsildar or Special Tahsildar may depute subordinates to perform ministerial duties.
+
+Such delegation remains subject to revision and confirmation by the officer who made the delegation.
+
+### C. Duties of the Village Accountant
+
+The Village Accountant must:
+
+- Maintain the prescribed registers, accounts and records.
+- Prepare records connected with village affairs.
+- Prepare records required by the Central Government, State Government or the public when directed by a superior Revenue Officer.
+
+### D. Seals
+
+Specified Revenue Officers must use a seal of the prescribed size and description.
+
+## 3. Recovery of Public Money and Property
+
+### A. Authority to Demand Public Money and Property
+
+The following authorities may demand public money, papers or government property detained by a Revenue Officer or former government employee:
+
+- The Deputy Commissioner.
+- The Joint Director of Land Records.
+- The Joint Director for Settlement.
+- Any officer appointed for this purpose.
+
+### B. Enforcement of Demand
+
+If the demand is not complied with, the Deputy Commissioner or Joint Director may cause the person concerned to be apprehended and confined in civil jail for a period not exceeding ninety days.
+
+### C. Recovery of Public Money
+
+Public money due may be recovered in the same manner and according to the same rules applicable to the recovery of arrears of land revenue.
+
+### D. Search Warrant
+
+The Deputy Commissioner may issue a search warrant for recovering public papers or government property.
+
+For this purpose, the Deputy Commissioner exercises powers equivalent to those of a Magistrate under the Code of Criminal Procedure, 1898.
+
+## 4. Eviction and Land Administration Powers
+
+### A. Eviction Procedure
+
+Where the Act provides for eviction or for an order to deliver possession, the following procedure may be followed:
+
+1. A notice to vacate is served on the person concerned.
+2. If the person refuses to vacate, the person may be removed through a subordinate officer.
+3. If resistance occurs, a summary inquiry may be conducted.
+4. Reasonable force may be used if the resistance is found to be without just cause.
+
+### B. Summary Eviction by the Tahsildar
+
+The Tahsildar may summarily evict any person who:
+
+- Unauthorisedly occupies land; or
+- Is wrongfully in possession of land,
+
+where the land is non-transferable because of a condition attached to the tenure under Sections 91, 98 or 99.
+
+### C. Forfeiture by the Tahsildar
+
+The Tahsildar may declare an occupancy or alienated holding forfeited to the State Government for non-payment of land revenue.
+
+However, forfeiture is prohibited where the arrears of land revenue due do not exceed **₹10,000**.
+
+### D. Recovery of the Value of Natural Products
+
+The Tahsildar may determine the value of any natural product that has been unauthorisedly removed from government property.
+
+### E. Disposal of State Government Land and Property
+
+Subject to the prescribed rules, the following authorities may dispose of land or other property belonging to the State Government:
+
+- The State Government.
+- The Regional Commissioner.
+- The Deputy Commissioner.
+- The Assistant Commissioner in charge of a Taluk or Taluks.
+- The Tahsildar.
+
+Such disposal must be carried out in accordance with the Karnataka Land Revenue Act, 1964 and the rules made under it.
