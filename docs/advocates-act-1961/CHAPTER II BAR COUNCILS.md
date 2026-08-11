@@ -154,6 +154,160 @@ Representation of elected members in already constituted State Bar Councils also
 
 These provisions ensure continuity in the functioning of State Bar Councils and prevent disruption during the transition from the old provisions to the amended provisions.
 
+### Section 4 – Bar Council of India
+
+## 1. Constitution under Section 4(1)
+
+There shall be one Bar Council for all the territories to which the Advocates Act, 1961 extends.
+
+This Council is called the **Bar Council of India**.
+
+## 2. Composition of the Bar Council of India
+
+The Bar Council of India consists of the following members:
+
+- The Attorney-General of India, as an ex officio member.
+- The Solicitor-General of India, as an ex officio member.
+- One member elected by each State Bar Council from among its members.
+
+Therefore, the Bar Council of India represents the State Bar Councils at the national level.
+
+### Ex officio Members
+
+The following are ex officio members of the Bar Council of India:
+
+1. Attorney-General of India.
+2. Solicitor-General of India.
+
+### Elected Members
+
+Each State Bar Council elects one member from among its own members to represent it in the Bar Council of India.
+
+## 3. Eligibility to Be Elected under Section 4(1A)
+
+Only a person who satisfies the **10 years' standing requirement** mentioned in the proviso to Section 3(2) is eligible to be elected as a member of the Bar Council of India.
+
+This means that the person must have been an advocate on a State roll for at least 10 years.
+
+## 4. Chairman and Vice-Chairman under Section 4(2)
+
+The Bar Council of India elects:
+
+- A Chairman; and
+- A Vice-Chairman.
+
+The election is conducted in the prescribed manner.
+
+## 5. Term of Office under Section 4(3)
+
+### A. Member who is an Ex officio Member of the State Bar Council
+
+If the member of the Bar Council of India is an ex officio member of the State Bar Council, the term of office is:
+
+- Two years from the date of election; or
+- Until the member ceases to be a member of the State Bar Council,
+
+whichever is earlier.
+
+### B. Other Members
+
+In the case of other members, the term of office is equal to the period for which they continue to be members of the State Bar Council.
+
+### C. Continuity Rule
+
+A member continues to hold office until a successor is elected.
+
+---
+
+## D. Legal Status of Bar Councils: Body Corporate
+
+### Section 5 – Bar Council to Be a Body Corporate
+
+Every Bar Council is a body corporate with the following characteristics and powers:
+
+- Perpetual succession.
+- A common seal.
+- Power to acquire and hold movable and immovable property.
+- Power to enter into contracts.
+- Capacity to sue and be sued in its own name.
+
+The status of a body corporate gives the Bar Council a legal personality separate from its members.
+
+Consequently, the identity of the Bar Council continues even when its members change. It can own property, enter into contracts and initiate or defend legal proceedings in its own name.
+
+---
+
+## E. Functions of State Bar Councils
+
+### Section 6 – Functions of State Bar Councils
+
+## 1. Main Functions under Section 6(1)
+
+### A. Enrolment and Roll Management
+
+A State Bar Council:
+
+- Admits persons as advocates on its roll.
+- Prepares and maintains the roll of advocates.
+
+### B. Disciplinary Function
+
+The State Bar Council entertains and determines cases of professional or other misconduct against advocates whose names appear on its roll.
+
+### C. Protection of Advocates
+
+The State Bar Council safeguards the rights, privileges and interests of advocates whose names are included on its roll.
+
+### D. Law Reform and Legal Education Support
+
+A State Bar Council may:
+
+- Promote and support law reform.
+- Conduct seminars and organise talks by eminent jurists.
+- Publish journals and legal papers.
+
+### E. Legal Aid
+
+A State Bar Council may organise legal aid for poor persons in the prescribed manner.
+
+### F. Financial and Electoral Administration
+
+A State Bar Council:
+
+- Manages and invests the funds of the Council.
+- Provides for the election of its members.
+
+### G. University Supervision and Legal Education
+
+A State Bar Council may visit and inspect universities as directed under Section 7(1)(i).
+
+This function is connected with the directions and standards laid down by the Bar Council of India regarding legal education.
+
+### H. Residual and General Powers
+
+A State Bar Council may:
+
+- Perform all other functions conferred on it by or under the Advocates Act, 1961.
+- Do all other things necessary for discharging its functions under the Act.
+
+## 2. Welfare and Legal Aid Funds under Sections 6(2) and 6(3)
+
+State Bar Councils may create funds for:
+
+- Welfare schemes for indigent, disabled or other advocates.
+- Legal aid or legal advice.
+- Establishment and maintenance of law libraries.
+
+A State Bar Council may receive the following for these purposes:
+
+- Grants.
+- Donations.
+- Gifts.
+- Benefactions.
+
+The amounts received must be credited to the appropriate funds.
+
+
 # Chapter II of the Advocates Act, 1961
 
 ## 5. Functions of the Bar Council of India
