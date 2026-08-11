@@ -153,3 +153,163 @@ The terms of existing members under previous legal provisions continue to be rec
 Representation of elected members in already constituted State Bar Councils also continues until the Council is reconstituted in accordance with the amended provisions.
 
 These provisions ensure continuity in the functioning of State Bar Councils and prevent disruption during the transition from the old provisions to the amended provisions.
+
+# Chapter II of the Advocates Act, 1961
+
+## 5. Functions of the Bar Council of India
+
+### Sections 7 and 7A
+
+The Bar Council of India is the apex regulatory body for the legal profession in India. Its functions include regulating professional conduct, supervising legal education, protecting advocates' interests and promoting the development of law.
+
+## A. Main Functions under Section 7
+
+### 1. Standards of Professional Conduct and Etiquette
+
+The Bar Council of India lays down standards of professional conduct and etiquette for advocates.
+
+These standards regulate the professional behaviour and ethical duties of advocates.
+
+### 2. Procedure for Disciplinary Committees
+
+The Bar Council of India prescribes the procedure to be followed by:
+
+- Disciplinary committees of the Bar Council of India; and
+- Disciplinary committees of State Bar Councils.
+
+This helps ensure uniformity and fairness in disciplinary proceedings against advocates.
+
+### 3. Protection of Advocates
+
+The Bar Council of India safeguards the rights, privileges and interests of advocates.
+
+This includes protecting the professional rights and lawful privileges available to advocates under the law.
+
+### 4. Promotion of Law Reform
+
+The Bar Council of India promotes and supports law reform.
+
+It may study existing laws, identify areas requiring reform and make suggestions for improving the legal system.
+
+### 5. Supervision and Control over State Bar Councils
+
+The Bar Council of India performs the following functions in relation to State Bar Councils:
+
+- Deals with matters referred to it by State Bar Councils.
+- Exercises general supervision and control over State Bar Councils.
+
+This supervisory role helps maintain uniformity in the administration and regulation of the legal profession throughout India.
+
+### 6. Promotion of Legal Education
+
+The Bar Council of India promotes legal education and lays down standards of legal education.
+
+It performs this function in consultation with:
+
+- Universities; and
+- State Bar Councils.
+
+The purpose is to ensure that legal education meets the standards required for entry into the legal profession.
+
+### 7. Recognition and Inspection of Universities
+
+The Bar Council of India recognises universities whose law degrees qualify a person for enrolment as an advocate.
+
+It may also:
+
+- Visit universities; and
+- Inspect universities,
+
+either directly or through State Bar Councils.
+
+Recognition and inspection help ensure that institutions offering legal education maintain the required academic and infrastructural standards.
+
+### 8. Seminars, Legal Talks and Publications
+
+The Bar Council of India may:
+
+- Organise seminars.
+- Organise legal talks by eminent jurists.
+- Publish journals and legal papers.
+
+These activities promote legal research, continuing legal education and professional development.
+
+### 9. Legal Aid
+
+The Bar Council of India organises legal aid for poor persons.
+
+This function supports access to justice by helping persons who cannot afford legal services.
+
+### 10. Recognition of Foreign Law Qualifications
+
+The Bar Council of India may recognise foreign legal qualifications on a reciprocal basis for admission as an advocate.
+
+Reciprocity means that recognition may be granted where the concerned foreign country also provides comparable recognition to Indian legal qualifications.
+
+### 11. Financial and Electoral Functions
+
+The Bar Council of India may:
+
+- Manage and invest its funds.
+- Provide for the election of its members.
+- Perform other functions assigned to it under the Advocates Act, 1961.
+
+These powers enable the Council to manage its administration and perform its statutory responsibilities effectively.
+
+---
+
+## B. Funding and Welfare Functions
+
+The Bar Council of India may constitute funds for:
+
+- Welfare schemes for advocates.
+- Legal aid.
+- Other purposes connected with the welfare and professional interests of advocates.
+
+It may receive the following contributions for these purposes:
+
+- Grants.
+- Donations.
+- Gifts.
+- Benefactions.
+
+The amounts received must be credited to the appropriate funds and used for the purposes for which those funds were created.
+
+These provisions enable the Bar Council of India to support advocates in need and promote access to legal assistance.
+
+---
+
+## C. Membership in International Bodies under Section 7A
+
+The Bar Council of India may become a member of international legal bodies.
+
+For example, it may join organisations such as the International Bar Association.
+
+For this purpose, the Bar Council of India may:
+
+- Pay membership subscriptions.
+- Make other payments connected with membership.
+- Send representatives to international conferences or seminars.
+- Spend money on participation in international legal events.
+
+This function enables the Bar Council of India to engage with the international legal community and exchange knowledge and professional practices.
+
+---
+
+## D. Importance of the Bar Council of India's Functions
+
+The functions of the Bar Council of India show that its role is not limited to national regulation of advocates.
+
+It also performs the following broader functions:
+
+- Maintains professional and ethical standards.
+- Supervises State Bar Councils.
+- Regulates legal education.
+- Recognises qualifying law degrees.
+- Promotes law reform and legal research.
+- Organises legal aid.
+- Protects the rights and interests of advocates.
+- Supports the welfare of advocates.
+- Encourages international legal cooperation.
+
+Therefore, the Bar Council of India acts as the central institution responsible for maintaining professional standards, regulating legal education and promoting the overall development of the legal profession in India.
