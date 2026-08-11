@@ -77,9 +77,9 @@ export default function Home() {
           />
 
           <SubjectCard
-            title="🏞️ Advocates Act 1961"
+            title="🎗️ Advocates Act 1961"
             description=""
-            link="/docs/category/advocates_act_1961"
+            link="/docs/advocates_act_1961"
           />
 
           <SubjectCard
