@@ -10,7 +10,7 @@ The Supreme Court's **Guidelines for Designation of Senior Advocates, 2023** pro
 
 ---
 
-# 2. Who is a Senior Advocate?
+## 2. Who is a Senior Advocate?
 
 A Senior Advocate is an advocate who has been formally designated as such by the Supreme Court or a High Court because of his or her:
 
@@ -25,7 +25,7 @@ The designation carries professional distinction but also imposes certain restri
 
 ---
 
-# 3. Designation of Senior Advocates by the Supreme Court
+## 3. Designation of Senior Advocates by the Supreme Court
 
 The Supreme Court of India has prescribed the **Guidelines for Designation of Senior Advocates, 2023**.
 
@@ -44,7 +44,7 @@ The Committee is required to meet at least twice in every calendar year.
 
 ---
 
-# 4. Who can be considered for designation?
+## 4. Who can be considered for designation?
 
 Under the 2023 Guidelines, an advocate is eligible for consideration if the prescribed conditions are satisfied.
 
@@ -69,7 +69,7 @@ The age requirement may, however, be relaxed by the Committee, or the advocate m
 
 ---
 
-# 5. Who can recommend an advocate?
+## 5. Who can recommend an advocate?
 
 The Chief Justice of India or any Judge of the Supreme Court may recommend in writing the name of an advocate for designation as a Senior Advocate if the advocate mainly practises in the Supreme Court and is considered suitable by virtue of ability, standing at the Bar, or special knowledge or experience in law.
 
@@ -79,7 +79,7 @@ The notice inviting applications is published on the official website of the Sup
 
 ---
 
-# 6. Scrutiny and collection of information
+## 6. Scrutiny and collection of information
 
 After receiving applications and recommendations, the Secretariat collects relevant information regarding the advocate's:
 
@@ -98,7 +98,7 @@ This mechanism makes the designation process more transparent and allows profess
 
 ---
 
-# 7. Point-based assessment
+## 7. Point-based assessment
 
 One of the important features of the 2023 Guidelines is the point-based assessment.
 
@@ -116,7 +116,7 @@ The largest component is the advocate's contribution through judgments, pro bono
 
 ---
 
-# 8. Interview and Full Court consideration
+## 8. Interview and Full Court consideration
 
 The Committee may shortlist candidates for an interview. The names shortlisted for interview, including candidates cleared by the Committee, are placed before the **Full Court**.
 
@@ -128,7 +128,7 @@ Thus, designation is not completed merely because an advocate satisfies the mini
 
 ---
 
-# 9. Reconsideration and withdrawal of designation
+## 9. Reconsideration and withdrawal of designation
 
 If an application is not favourably considered by the Full Court, it may be reviewed or reconsidered after the expiry of **two years**. The advocate is also not prevented from applying to a High Court for designation as a Senior Advocate.
 
@@ -138,19 +138,19 @@ However, the advocate must be given an opportunity of being heard before such ac
 
 ---
 
-# 10. Restrictions on Senior Advocates
+## 10. Restrictions on Senior Advocates
 
 The special status of a Senior Advocate comes with corresponding restrictions. These restrictions are primarily intended to preserve the professional dignity of the office and ensure that Senior Advocates concentrate on advocacy and legal assistance rather than undertaking functions that can be performed by other advocates.
 
 The Bar Council of India Rules impose specific restrictions upon Senior Advocates.
 
-## A. No filing of vakalatnama or acting
+### A. No filing of vakalatnama or acting
 
 A Senior Advocate generally cannot file a vakalatnama or act on behalf of a client in the manner in which an Advocate ordinarily acts.
 
 The Senior Advocate primarily appears and argues in court, while the procedural and filing work is undertaken through an Advocate-on-Record or other Advocate as permitted by the applicable rules.
 
-## B. Cannot appear without another Advocate
+### B. Cannot appear without another Advocate
 
 A Senior Advocate cannot ordinarily appear before a court or tribunal without an Advocate accompanying him.
 
@@ -158,25 +158,25 @@ Therefore, the Senior Advocate does not ordinarily function as the sole procedur
 
 This reflects the distinction between the **arguing role of a Senior Advocate** and the **acting/procedural role of the instructing Advocate**.
 
-## C. No drafting of pleadings and certain procedural documents
+### C. No drafting of pleadings and certain procedural documents
 
 A Senior Advocate is subject to restrictions regarding drafting pleadings and other procedural documents.
 
 The purpose is to ensure that the Senior Advocate concentrates primarily on legal arguments, opinions and advocacy, while the instructing Advocate handles procedural work.
 
-## D. Cannot file appearance or act without an Advocate-on-Record in the Supreme Court
+### D. Cannot file appearance or act without an Advocate-on-Record in the Supreme Court
 
 In the Supreme Court, the Advocate-on-Record system is particularly important. A Senior Advocate generally appears through an Advocate-on-Record.
 
 The Advocate-on-Record remains responsible for filing and procedural requirements, while the Senior Advocate provides specialised advocacy.
 
-## E. Restrictions regarding briefing
+### E. Restrictions regarding briefing
 
 A Senior Advocate is not expected to accept a brief directly from the client in the ordinary manner. The brief is ordinarily received through an Advocate.
 
 This maintains the professional structure between the client, instructing Advocate and Senior Advocate.
 
-## F. Restriction on accepting certain briefs
+### F. Restriction on accepting certain briefs
 
 The Bar Council rules also impose restrictions regarding accepting briefs in circumstances involving conflicts of interest and other professional improprieties. A Senior Advocate, like every advocate, remains bound by the general standards of professional conduct and etiquette.
 
@@ -184,7 +184,7 @@ For example, an advocate should not act or plead in a matter in which he is pers
 
 ---
 
-# 11. General professional restrictions applicable to Advocates
+## 11. General professional restrictions applicable to Advocates
 
 In addition to the special restrictions applicable to Senior Advocates, Senior Advocates are also bound by the general standards of professional conduct prescribed by the Bar Council of India.
 
@@ -218,7 +218,7 @@ These professional duties apply to Senior Advocates as members of the legal prof
 
 ---
 
-# 12. Why are Senior Advocates subject to restrictions?
+## 12. Why are Senior Advocates subject to restrictions?
 
 The restrictions are not intended to reduce the authority of Senior Advocates. Rather, they are connected with the special role and status attached to the designation.
 
@@ -235,7 +235,7 @@ The procedural work can therefore be handled by the instructing Advocate, allowi
 
 ---
 
-# 13. Importance of the designation
+## 13. Importance of the designation
 
 Designation as a Senior Advocate represents professional recognition by the judiciary. It recognises an advocate's contribution to the legal profession rather than merely the length of practice.
 
@@ -249,7 +249,7 @@ This demonstrates that professional conduct and integrity are important consider
 
 ---
 
-# 14. Conclusion
+## 14. Conclusion
 
 The designation of Senior Advocates is an important mechanism for recognising excellence in the legal profession. Under the Supreme Court's 2023 Guidelines, designation involves eligibility requirements, applications or recommendations, scrutiny of professional records, stakeholder feedback, point-based assessment, interview and consideration by the Full Court.
 
