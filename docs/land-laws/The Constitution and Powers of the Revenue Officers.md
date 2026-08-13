@@ -4,12 +4,13 @@ sidebar_position: 4
 ---
 
 # The Constitution and Powers of Revenue Officers
+# Chapter II
+# Sections 3 to 23
 
 The constitution and powers of Revenue Officers are detailed in **Chapter II of the Karnataka Land Revenue Act, 1964**.
 
 This chapter explains the administrative divisions, hierarchy, appointment, subordination, powers and duties of Revenue Officers.
 
-# Sections 3 to 23
 
 ## Constitution and Hierarchy of Revenue Officers
 
