@@ -545,3 +545,30 @@ article .card:hover,
 [data-theme="dark"] .footer.footer--dark {
   background-color: #0a0908;
 }
+
+/* --------------------------------------------------------------------------
+   12. Author portrait on the intro page
+   -------------------------------------------------------------------------- */
+.markdown img[alt^="Nikhil M"] {
+  float: right;
+  width: 190px;
+  max-width: 42%;
+  margin: 0.25rem 0 1.25rem 1.75rem;
+  border: 1px solid var(--ija-rule);
+  border-radius: 3px;
+  box-shadow: 6px 6px 0 0 var(--ija-paper-2);
+}
+
+.markdown img[alt^="Nikhil M"] + p + ul {
+  overflow: hidden;
+}
+
+@media (max-width: 600px) {
+  .markdown img[alt^="Nikhil M"] {
+    float: none;
+    display: block;
+    width: 160px;
+    max-width: 60%;
+    margin: 0 0 1.25rem;
+  }
+}
