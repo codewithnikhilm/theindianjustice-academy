@@ -133,6 +133,10 @@ const config = {
                 label: 'Professional Ethics',
                 to: '/docs/category/the-advocates-act-1961',
               },
+              {
+                label: 'Transfer of Property Act, 1882',
+                to: '/docs/category/the-transfer-of-property-act-1882',
+              },
             ],
           },
 

@@ -69,15 +69,15 @@ export default [
   },
   {
     path: '/theindianjustice-academy/docs',
-    component: ComponentCreator('/theindianjustice-academy/docs', '5f6'),
+    component: ComponentCreator('/theindianjustice-academy/docs', '8d8'),
     routes: [
       {
         path: '/theindianjustice-academy/docs',
-        component: ComponentCreator('/theindianjustice-academy/docs', '0ea'),
+        component: ComponentCreator('/theindianjustice-academy/docs', '978'),
         routes: [
           {
             path: '/theindianjustice-academy/docs',
-            component: ComponentCreator('/theindianjustice-academy/docs', 'a2f'),
+            component: ComponentCreator('/theindianjustice-academy/docs', 'bac'),
             routes: [
               {
                 path: '/theindianjustice-academy/docs/category/registration-act',
@@ -94,6 +94,12 @@ export default [
               {
                 path: '/theindianjustice-academy/docs/category/the-karnataka-land-revenue-act-1964',
                 component: ComponentCreator('/theindianjustice-academy/docs/category/the-karnataka-land-revenue-act-1964', 'a0e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/theindianjustice-academy/docs/category/the-transfer-of-property-act-1882',
+                component: ComponentCreator('/theindianjustice-academy/docs/category/the-transfer-of-property-act-1882', '337'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -202,6 +208,12 @@ export default [
               {
                 path: '/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/The-Constitution-and-Powers-of-the-Revenue-Officers',
                 component: ComponentCreator('/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/The-Constitution-and-Powers-of-the-Revenue-Officers', '2ce'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/theindianjustice-academy/docs/the-transfer-of-property-act-1882/persons-competent-to-transfer',
+                component: ComponentCreator('/theindianjustice-academy/docs/the-transfer-of-property-act-1882/persons-competent-to-transfer', 'fef'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
