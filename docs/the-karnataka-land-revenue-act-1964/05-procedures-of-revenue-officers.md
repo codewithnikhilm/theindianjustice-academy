@@ -3,237 +3,336 @@ title: Procedure of Revenue Officers
 sidebar_position: 5
 ---
 
-# Senior Advocate: Designation, Procedure and Restrictions
-# Chapter III
-# Sections 24 to 39
+# Chapter III: Procedure of Revenue Officers
 
-## 1. Introduction
+## Introduction
 
-The legal profession in India recognises two categories of advocates—**Senior Advocates and other Advocates**. This classification is provided under Section 16 of the Advocates Act, 1961. Senior Advocate designation is conferred upon advocates who, in the opinion of the Supreme Court or a High Court, possess exceptional ability, standing at the Bar, or special knowledge or experience in law.
+Chapter III of the Karnataka Land Revenue Act, 1964, deals with the procedure that a Revenue Officer must follow while conducting a revenue case or inquiry. It covers Sections 24 to 39 and explains how notices are issued, evidence is collected, witnesses are examined, inquiries are conducted, orders are passed, land is inspected and eviction orders are executed.
 
-The designation of a Senior Advocate is not merely a matter of seniority based on the number of years of practice. It is a recognition of professional ability, legal knowledge, experience, reputation and suitability for the status of a Senior Advocate.
+A Revenue Officer is not merely an administrative officer in every situation. When he decides disputes or questions under the Act, he performs a judicial or quasi-judicial function and acts as a **Revenue Court**.
 
-The Supreme Court's **Guidelines for Designation of Senior Advocates, 2023** provide a detailed procedure for designation before the Supreme Court. The Guidelines establish a permanent Committee for dealing with matters relating to the designation of Senior Advocates.
+The chapter may be remembered through the following sequence:
 
-## 2. Who is a Senior Advocate?
+> **Authority → Place → Notice → Evidence → Inquiry → Hearing → Decision → Execution**
 
-A Senior Advocate is an advocate who has been formally designated as such by the Supreme Court or a High Court because of his or her:
+## Importance of the Chapter
 
-- Ability as an advocate;
-- Standing at the Bar;
-- Special knowledge or experience in law; and
-- Overall professional suitability.
+This chapter is important because it protects the principles of **natural justice** in revenue proceedings. Before a person is adversely affected, the Revenue Officer should generally:
 
-Therefore, **every advocate with long experience is not automatically a Senior Advocate**. Designation is a formal process and requires consideration by the competent court.
+- Have legal authority to deal with the matter.
+- Issue proper notice.
+- Give the affected person an opportunity of being heard.
+- Examine relevant evidence.
+- Pass a reasoned and lawful order.
+- Execute the order according to the prescribed procedure.
 
-The designation carries professional distinction but also imposes certain restrictions on the manner in which the advocate may practise.
+If these requirements are ignored, the order may be challenged in appeal, revision or other appropriate legal proceedings.
 
-## 3. Designation of Senior Advocates by the Supreme Court
+## Revenue Officer as a Revenue Court
 
-The Supreme Court of India has prescribed the **Guidelines for Designation of Senior Advocates, 2023**.
+### Judicial character of proceedings
 
-### 3.1 Permanent Committee
+A Revenue Officer acts as a Revenue Court when he decides:
 
-All matters relating to designation of Senior Advocates in the Supreme Court are dealt with by a Permanent Committee known as the **Committee for Designation of Senior Advocates**.
+- A dispute between the Government and a private person.
+- A dispute between two or more private parties.
+- Any question requiring adjudication under the Karnataka Land Revenue Act.
 
-The Committee consists of:
+However, every act performed by a Revenue Officer is not necessarily a court proceeding. Routine administrative functions, such as maintaining records, may not have the same judicial character.
 
-1. Chief Justice of India – Chairperson;
-2. Two senior-most Judges of the Supreme Court;
-3. Attorney General for India; and
-4. One member of the Bar nominated by the Chairperson and the other members.
+When acting as a Revenue Court, the officer must:
 
-The Committee is required to meet at least twice in every calendar year.
+- Act impartially.
+- Give notice to the parties.
+- Hear the parties or their recognised agents.
+- Consider the evidence placed before him.
+- Record reasons for his decision.
 
-## 4. Who Can Be Considered for Designation?
+### Authority of the officer
 
-Under the 2023 Guidelines, an advocate is eligible for consideration if the prescribed conditions are satisfied.
+Ordinarily, a Revenue Officer not below the rank of a Tahsildar may act as a Revenue Court in matters covered by the Act. The officer may also possess limited incidental powers necessary to secure the ends of justice or prevent abuse of the revenue process.
 
-### 4.1 Minimum Professional Standing
+## Place and Transfer of Proceedings
 
-The advocate must have at least:
+### Ordinary place of hearing
 
-- **10 years' standing as an Advocate**, or
-- **10 years' combined standing** as an Advocate and as a District and Sessions Judge or Judicial Member of a qualifying Tribunal in India.
+A proceeding should ordinarily be conducted within the territorial jurisdiction of the concerned Revenue Officer. This ensures that the case is dealt with by the officer having a proper connection with the land or subject matter.
 
-### 4.2 Practice
+### Transfer of proceedings
 
-The advocate should mainly practise in the **Supreme Court**.
+A superior revenue authority may, when necessary in the interests of justice:
 
-However, advocates having domain expertise and substantial practice before specialised tribunals may receive concession regarding the extent of their appearances in the Supreme Court.
+- Transfer a proceeding to another competent Revenue Officer.
+- Withdraw a proceeding from a subordinate officer.
+- Deal with the proceeding itself.
 
-### 4.3 Age
+Transfer should be based on lawful reasons and should not be used arbitrarily.
 
-The normal requirement is that the advocate should have attained **45 years of age**.
+## Notice to Parties
 
-The age requirement may, however, be relaxed by the Committee, or the advocate may be recommended by the Chief Justice of India or a Judge of the Supreme Court.
+### Purpose of notice
 
-## 5. Who Can Recommend an Advocate?
+Notice is a basic requirement of fair procedure. It informs a person:
 
-The Chief Justice of India or any Judge of the Supreme Court may recommend in writing the name of an advocate for designation as a Senior Advocate if the advocate mainly practises in the Supreme Court and is considered suitable by virtue of ability, standing at the Bar, or special knowledge or experience in law.
+- That a proceeding has been initiated.
+- The subject matter of the proceeding.
+- The date and place of hearing.
+- The action or response required from him.
 
-Apart from judicial recommendations, the Secretariat of the Committee initiates the process by inviting applications from Advocates-on-Record and Advocates.
+A person should not ordinarily be adversely affected by a revenue order without receiving proper notice.
 
-The notice inviting applications is published on the official website of the Supreme Court, and at least **21 days** are provided for submission of applications.
+### Modes of service
 
-## 6. Scrutiny and Collection of Information
+Depending on the circumstances, notice may be served:
 
-After receiving applications and recommendations, the Secretariat collects relevant information regarding the advocate's:
+- Personally upon the concerned person.
+- Through his recognised agent.
+- By affixing it at a conspicuous place on the concerned land or premises.
 
-- Reputation;
-- Conduct;
-- Integrity;
-- Professional experience;
-- Judgments;
-- Pro bono work;
-- Domain expertise; and
-- Other relevant professional achievements.
+The method of service must be sufficient to give the affected person a reasonable opportunity to participate in the proceeding.
 
-The proposals are also published on the Supreme Court's website, and stakeholders are invited to provide their views or suggestions regarding the proposed designation. At least **15 days** are provided for such suggestions.
+### Effect of defective service
 
-This mechanism makes the designation process more transparent and allows professional stakeholders to place relevant information before the Committee.
+If notice is not properly served, the affected person may be deprived of an opportunity to defend himself. An order passed without proper notice may therefore become vulnerable to challenge.
 
-## 7. Point-Based Assessment
+## Summoning Parties, Witnesses and Documents
 
-One of the important features of the 2023 Guidelines is the point-based assessment.
+### Power to summon
 
-The Committee assesses candidates on the following broad criteria:
+A Revenue Officer may summon a person:
 
-| Criteria | Maximum Points |
-|---|---:|
-| Years of practice | 20 |
-| Reported/unreported judgments, pro bono work and domain expertise | 50 |
-| Academic articles, teaching and guest lectures | 5 |
-| Personality and suitability through interview | 25 |
-| **Total** | **100** |
+- As a party to the proceeding.
+- As a witness.
+- To produce documents or other material evidence.
 
-The largest component is the advocate's contribution through judgments, pro bono work and specialised legal expertise. The interview also carries substantial weight because it enables a holistic assessment of the candidate's personality and suitability.
+The summons should specify the purpose of attendance and the date, time and place at which the person must appear.
 
-## 8. Interview and Full Court Consideration
+### Consequences of disobedience
 
-The Committee may shortlist candidates for an interview. The names shortlisted for interview, including candidates cleared by the Committee, are placed before the **Full Court**.
+If a person deliberately disobeys a lawful summons, the officer may take measures permitted by law, including:
 
-The Guidelines provide that there shall ordinarily be no voting by secret ballot except in an exceptional situation for reasons to be recorded.
+- Issuing a bailable warrant.
+- Requiring the person to furnish security.
+- Imposing the prescribed statutory fine.
 
-The final decision of the Full Court is communicated individually to the applicants.
+These powers help the officer obtain necessary evidence and prevent parties from obstructing the proceeding.
 
-Thus, designation is not completed merely because an advocate satisfies the minimum eligibility requirements. The eligibility requirements only permit consideration; the final designation depends upon the prescribed assessment and decision of the Full Court.
+## Examination of Witnesses
 
-## 9. Reconsideration and Withdrawal of Designation
+### Attendance and evidence
 
-If an application is not favourably considered by the Full Court, it may be reviewed or reconsidered after the expiry of **two years**. The advocate is also not prevented from applying to a High Court for designation as a Senior Advocate.
+A party requiring the attendance of a witness must follow the prescribed procedure for obtaining a witness summons. The witness may be required to give evidence or produce relevant documents.
 
-The Full Court also has the power to review its decision to designate an advocate as a Senior Advocate and **recall the designation** if the advocate is subsequently found guilty of conduct which, in the opinion of the Full Court, disentitles the advocate to the designation.
+Because formal and summary inquiries have a judicial character, witnesses are expected to give truthful evidence.
 
-However, the advocate must be given an opportunity of being heard before such action is taken.
+### Examination on commission
 
-## 10. Restrictions on Senior Advocates
+If a witness cannot attend personally because of:
 
-The special status of a Senior Advocate comes with corresponding restrictions. These restrictions are primarily intended to preserve the professional dignity of the office and ensure that Senior Advocates concentrate on advocacy and legal assistance rather than undertaking functions that can be performed by other advocates.
+- Sickness.
+- Physical infirmity.
+- A legal exemption from personal appearance.
 
-The Bar Council of India Rules impose specific restrictions upon Senior Advocates.
+The Revenue Officer may direct that the witness be examined on commission by a subordinate officer.
 
-### 10.1 No Filing of Vakalatnama or Acting
+This enables the officer to obtain important evidence without causing unnecessary hardship to the witness.
 
-A Senior Advocate generally cannot file a vakalatnama or act on behalf of a client in the manner in which an Advocate ordinarily acts.
+## Types of Inquiry
 
-The Senior Advocate primarily appears and argues in court, while the procedural and filing work is undertaken through an Advocate-on-Record or other Advocate as permitted by the applicable rules.
+### Formal inquiry
 
-### 10.2 Cannot Appear Without Another Advocate
+A formal inquiry is a detailed proceeding used when the matter requires careful examination of facts and evidence.
 
-A Senior Advocate cannot ordinarily appear before a court or tribunal without an Advocate accompanying him.
+Its main features include:
 
-Therefore, the Senior Advocate does not ordinarily function as the sole procedural advocate for the client. The other Advocate handles the procedural aspects and instructs the Senior Advocate regarding the case.
+- Evidence is recorded fully in writing.
+- The record is prepared in the prescribed language.
+- The evidence is signed by the officer.
+- The final order contains complete reasons.
 
-This reflects the distinction between the **arguing role of a Senior Advocate** and the **acting/procedural role of the instructing Advocate**.
+A formal inquiry is suitable for complicated disputes or matters involving substantial questions of fact.
 
-### 10.3 Restrictions Regarding Drafting
+### Summary inquiry
 
-A Senior Advocate is subject to restrictions regarding drafting pleadings and other procedural documents.
+A summary inquiry is a simplified and comparatively quicker proceeding.
 
-The purpose is to ensure that the Senior Advocate concentrates primarily on legal arguments, opinions and advocacy, while the instructing Advocate handles procedural work.
+The officer generally records:
 
-### 10.4 Appearance Through Advocate-on-Record
+- A summary of the evidence.
+- The important statements of the parties.
+- The decision.
+- The reasons for the decision.
 
-In the Supreme Court, the Advocate-on-Record system is particularly important. A Senior Advocate generally appears through an Advocate-on-Record.
+A summary inquiry is not an unfair or arbitrary proceeding. The procedure is simplified, but the officer must still act judicially and provide the parties a fair opportunity of being heard.
 
-The Advocate-on-Record remains responsible for filing and procedural requirements, while the Senior Advocate provides specialised advocacy.
+The officer may also adopt the more detailed procedure of a formal inquiry if the circumstances require it.
 
-### 10.5 Restrictions Regarding Briefing
+### Other inquiries
 
-A Senior Advocate is not expected to accept a brief directly from the client in the ordinary manner. The brief is ordinarily received through an Advocate.
+Where the Act does not specify whether an inquiry must be formal or summary, the procedure prescribed by the State Government is followed.
 
-This maintains the professional structure between the client, instructing Advocate and Senior Advocate.
+Subject to those rules, the officer may adopt a procedure suitable for:
 
-### 10.6 Restrictions on Accepting Certain Briefs
+- Finding the essential facts.
+- Resolving the matter efficiently.
+- Promoting the public interest.
 
-The Bar Council rules also impose restrictions regarding accepting briefs in circumstances involving conflicts of interest and other professional improprieties.
+The flexibility of procedure does not remove the duty to act fairly and base the decision on relevant material.
 
-A Senior Advocate, like every advocate, remains bound by the general standards of professional conduct and etiquette.
+## Nature of the Inquiry
 
-For example, an advocate should not act or plead in a matter in which he is personally pecuniarily interested.
+### Judicial proceeding
 
-## 11. General Professional Restrictions Applicable to Advocates
+Formal and summary inquiries under the chapter are treated as judicial proceedings. Therefore, the Revenue Officer must not act as a private investigator or as an interested administrative authority.
 
-In addition to the special restrictions applicable to Senior Advocates, Senior Advocates are also bound by the general standards of professional conduct prescribed by the Bar Council of India.
+He must:
 
-### 11.1 Duty Towards the Court
+- Remain impartial.
+- Consider relevant evidence.
+- Avoid relying on undisclosed material.
+- Give parties an opportunity to respond.
+- Decide according to law and the evidence on record.
 
-An advocate must conduct himself with dignity and self-respect while appearing before a court.
+The parties and witnesses are also expected to speak truthfully during the inquiry.
 
-The advocate must maintain a respectful attitude towards the Court and must not attempt to influence the decision of the Court through illegal or improper means.
+## Hearing and Decision
 
-Private communications with a judge concerning a pending case are prohibited.
+### Conduct of hearing
 
-### 11.2 Duty to Prevent Improper Conduct
+The hearing should generally be:
 
-An advocate must attempt to prevent his client from adopting unfair or improper practices in relation to the Court, opposing counsel or other parties.
+- Conducted in public.
+- Held after due notice to the parties or their recognised agents.
+- Conducted on the date and at the place communicated to the parties.
 
-The advocate is not merely a mouthpiece of the client and must exercise independent professional judgment.
+The parties should receive a reasonable opportunity to present their case, produce documents and examine or rely upon witnesses.
 
-### 11.3 Conflict of Interest
+### Passing of the order
 
-An advocate should not act or plead in a matter in which he has a personal pecuniary interest.
+The order should be:
 
-For example, an advocate should not accept a brief from a company in which he is a director when such circumstances create a conflict with his professional obligations.
+- Signed by the Revenue Officer.
+- Pronounced in open court.
+- Pronounced on a date communicated to the parties.
+- Supported by reasons, particularly where the inquiry is formal or the decision adversely affects a person.
 
-### 11.4 Appearance and Dress
+A reasoned order demonstrates that the officer considered the relevant facts and legal issues.
 
-An advocate must appear before the Court in the prescribed dress and maintain a presentable appearance.
+### Absence of a party
 
-These professional duties apply to Senior Advocates as members of the legal profession and reinforce the higher standards expected from them.
+If a party fails to appear despite proper service of notice, the officer may:
 
-## 12. Why Are Senior Advocates Subject to Restrictions?
+- Proceed with the case in that party’s absence.
+- Dismiss the proceeding for default, where appropriate.
 
-The restrictions are not intended to reduce the authority of Senior Advocates. Rather, they are connected with the special role and status attached to the designation.
+However, the absent party may apply for the order to be set aside by showing sufficient cause for non-appearance. The opposite party must ordinarily be given notice of such application.
 
-A Senior Advocate is expected to contribute primarily through:
+The application is generally required to be made within thirty days, subject to the special rule applicable where notice was not duly served.
 
-- Legal knowledge;
-- Specialised advocacy;
-- Interpretation of law;
-- Formulation of legal arguments;
-- Assistance to courts in difficult questions of law; and
-- Professional leadership at the Bar.
+## Inspection and Entry upon Land
 
-The procedural work can therefore be handled by the instructing Advocate, allowing the Senior Advocate to concentrate on advocacy and legal strategy.
+### Purpose of entry
 
-## 13. Importance of the Designation
+Revenue administration often requires physical inspection of land. For lawful revenue purposes, the Revenue Officer may enter land or premises for:
 
-Designation as a Senior Advocate represents professional recognition by the judiciary. It recognises an advocate's contribution to the legal profession rather than merely the length of practice.
+- Measuring land.
+- Fixing or inspecting boundaries.
+- Classifying the soil.
+- Making an assessment.
+- Performing other land-revenue functions.
 
-The 2023 Supreme Court Guidelines demonstrate this by giving significant weight to judgments, pro bono work, domain expertise, academic contributions, personality and suitability.
+Servants and workmen may also enter the land under the officer’s supervision and control.
 
-The application itself requires extensive information concerning the advocate's practice, judgments, pro bono and amicus curiae work, publications, teaching experience, areas of specialisation and professional background.
+### Protection of residential privacy
 
-The application also requires disclosure of matters such as FIRs, pending litigation, convictions, disciplinary proceedings and proceedings before the Bar Council.
+The power of entry is not unlimited. Without the occupier’s consent, the officer cannot enter a dwelling house or an enclosed court or garden attached to it unless:
 
-This demonstrates that professional conduct and integrity are important considerations in determining whether an advocate is suitable for the status of Senior Advocate.
+- At least seven days’ previous notice has been given.
+- Due regard is shown to the social and religious sentiments of the occupier.
 
-## 14. Conclusion
+This provision balances the needs of revenue administration with the privacy and dignity of individuals.
 
-The designation of Senior Advocates is an important mechanism for recognising excellence in the legal profession. Under the Supreme Court's 2023 Guidelines, designation involves eligibility requirements, applications or recommendations, scrutiny of professional records, stakeholder feedback, point-based assessment, interview and consideration by the Full Court.
+## Procedure for Eviction
 
-However, the status of Senior Advocate is accompanied by special professional restrictions. A Senior Advocate primarily performs the role of an arguing counsel and ordinarily works through an Advocate-on-Record or instructing Advocate for procedural and filing requirements. Senior Advocates are also bound by the general professional duties imposed upon all advocates.
+### Notice to vacate
 
-Therefore, the designation represents both **professional recognition and professional responsibility**. The higher status given to a Senior Advocate is accompanied by higher expectations of legal ability, integrity, independence, dignity and professional conduct.
+Where a person is found to be wrongfully occupying land, eviction should not ordinarily be carried out suddenly or arbitrarily.
+
+The first step is to serve a notice requiring the person to vacate within a reasonable period.
+
+### Removal of the occupant
+
+If the person does not comply with the notice, the Revenue Officer may:
+
+- Remove the person himself.
+- Direct a subordinate officer to remove him.
+
+The action must remain within the authority granted by law.
+
+### Resistance or obstruction
+
+If the occupant resists or obstructs eviction:
+
+1. A summary inquiry may be conducted.
+2. The officer must determine whether the resistance has just cause.
+3. If the resistance is unjustified and continues, only reasonably necessary force may be used.
+4. Separate legal proceedings may be initiated for unlawful resistance or obstruction.
+
+The purpose is to secure lawful compliance, not to authorise excessive or arbitrary force.
+
+## Crops and Recovery of Land Revenue
+
+### Protective measures
+
+In appropriate cases involving unpaid land revenue, the Revenue Officer may:
+
+- Prevent the reaping of crops until notice is given.
+- Prevent the removal of harvested crops.
+- Place watchmen over the crops.
+- Recover the cost of watching or preserving the crops as arrears of land revenue.
+
+### Protection against unnecessary damage
+
+Crops must not be retained unnecessarily when such retention may cause damage. If the amount due remains unpaid within the prescribed period, the officer may:
+
+- Release the crop.
+- Recover the amount through another lawful method.
+- Sell an appropriate portion of the crop, where legally permitted.
+
+The officer must therefore balance effective recovery of revenue with the duty to prevent avoidable loss or damage to the crop.
+
+## Simple Illustration
+
+Suppose a person is alleged to be occupying Government land without authority.
+
+The lawful procedure would generally be:
+
+1. The competent Revenue Officer takes up the matter.
+2. Notice is served on the alleged occupant.
+3. The occupant is given an opportunity to appear and produce documents.
+4. The officer examines the land records, witnesses and other evidence.
+5. A formal or summary inquiry is conducted, depending on the nature of the case.
+6. The officer passes a reasoned order.
+7. If eviction is ordered, the person is given time to vacate.
+8. If he resists without lawful justification, the officer may conduct a summary inquiry and use only reasonably necessary force.
+
+An immediate eviction without notice, hearing or inquiry would generally be inconsistent with the procedural safeguards contemplated by the chapter.
+
+## Exam-Oriented Conclusion
+
+Chapter III establishes the procedural framework for revenue adjudication under the Karnataka Land Revenue Act, 1964. Its central objective is to ensure that Revenue Officers exercise their powers fairly, lawfully and judicially.
+
+The most important principles are:
+
+- Jurisdiction must exist before action is taken.
+- Parties must receive proper notice.
+- Evidence must be collected and recorded.
+- Witnesses may be summoned and examined.
+- Inquiries may be formal or summary.
+- Proceedings must be fair and judicial in character.
+- Orders must be signed, pronounced and supported by reasons.
+- Entry upon residential premises is subject to safeguards.
+- Eviction must follow notice and lawful procedure.
+- Revenue recovery involving crops must not cause unnecessary damage.
+
+Thus, Chapter III converts revenue administration into a structured legal process whenever the rights or liabilities of persons are adjudicated.
