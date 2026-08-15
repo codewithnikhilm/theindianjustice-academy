@@ -59,9 +59,10 @@ export default function Home() {
           }}
         >
           <SubjectCard
-            title="🏞️ Land Laws"
+            title="🏞️ The Karnataka Land Revenue Act 1964"
             description="Notes, PYQs and important concepts."
-            link="/docs/category/land-laws"
+            link="/docs/category/the-karnataka-land-revenue-act-1964"
+            
           />
 
           <SubjectCard
