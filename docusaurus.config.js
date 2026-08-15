@@ -117,7 +117,7 @@ const config = {
               },
               {
                 label: 'Land Laws',
-                to: '/docs/category/land-laws',
+                to: '/docs/category/the-karnataka-land-revenue-act-1964',
               },
               {
                 label: 'Registration Act',
