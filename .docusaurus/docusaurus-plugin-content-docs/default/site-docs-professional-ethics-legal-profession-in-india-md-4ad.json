@@ -1,0 +1,39 @@
+{
+  "id": "professional-ethics/legal-profession-in-india",
+  "title": "Legal Profession in India",
+  "description": "History and development of the legal profession in India — from the Mayor's Courts and the Supreme Court of Judicature to the High Courts, the Indian Bar Councils Act, 1926 and the Advocates Act, 1961.",
+  "source": "@site/docs/professional-ethics/legal-profession-in-india.md",
+  "sourceDirName": "professional-ethics",
+  "slug": "/professional-ethics/legal-profession-in-india",
+  "permalink": "/theindianjustice-academy/docs/professional-ethics/legal-profession-in-india",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "#/docs/professional-ethics/legal-profession-in-india.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "legal-profession-in-india",
+    "title": "Legal Profession in India",
+    "sidebar_label": "Legal Profession in India",
+    "sidebar_position": 1,
+    "description": "History and development of the legal profession in India — from the Mayor's Courts and the Supreme Court of Judicature to the High Courts, the Indian Bar Councils Act, 1926 and the Advocates Act, 1961.",
+    "keywords": [
+      "legal profession in India",
+      "professional ethics",
+      "Advocates Act 1961",
+      "Indian Bar Councils Act 1926",
+      "Mayor's Court",
+      "High Courts"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Professional Ethics",
+    "permalink": "/theindianjustice-academy/docs/category/professional-ethics"
+  },
+  "next": {
+    "title": "Chapter II of the Advocates Act, 1961",
+    "permalink": "/theindianjustice-academy/docs/professional-ethics/advocates-act-chapter-ii"
+  }
+}

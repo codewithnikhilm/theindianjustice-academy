@@ -1,0 +1,214 @@
+{
+  "/theindianjustice-academy/__docusaurus/debug-dc2": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---theindianjustice-academy-docusaurus-debugb-38-481"
+    }
+  },
+  "/theindianjustice-academy/__docusaurus/debug/config-025": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---theindianjustice-academy-docusaurus-debugb-38-481"
+    }
+  },
+  "/theindianjustice-academy/__docusaurus/debug/content-8f2": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---theindianjustice-academy-docusaurus-debugb-38-481"
+    },
+    "__props": "__props---theindianjustice-academy-docusaurus-debug-contenta-5-e-23a"
+  },
+  "/theindianjustice-academy/__docusaurus/debug/globalData-ea0": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---theindianjustice-academy-docusaurus-debugb-38-481"
+    }
+  },
+  "/theindianjustice-academy/__docusaurus/debug/metadata-350": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---theindianjustice-academy-docusaurus-debugb-38-481"
+    }
+  },
+  "/theindianjustice-academy/__docusaurus/debug/registry-d8b": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---theindianjustice-academy-docusaurus-debugb-38-481"
+    }
+  },
+  "/theindianjustice-academy/__docusaurus/debug/routes-977": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---theindianjustice-academy-docusaurus-debugb-38-481"
+    }
+  },
+  "/theindianjustice-academy/blog-9dc": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---theindianjustice-academy-blog-369-a4c"
+    },
+    "sidebar": "sidebar---theindianjustice-academy-blog-814-e01",
+    "items": [
+      {
+        "content": "content---theindianjustice-academy-blog-3-b-0-00e"
+      }
+    ],
+    "__props": "__props---theindianjustice-academy-blog-14-d-d95"
+  },
+  "/theindianjustice-academy/blog/archive-5b6": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---theindianjustice-academy-blog-369-a4c"
+    },
+    "__props": "__props---theindianjustice-academy-blog-archivefed-9c7"
+  },
+  "/theindianjustice-academy/blog/authors-460": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-list-page-621-70c",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---theindianjustice-academy-blog-authorsace-774"
+      },
+      "plugin": "plugin---theindianjustice-academy-blog-369-a4c"
+    },
+    "sidebar": "sidebar---theindianjustice-academy-blog-814-e01",
+    "__props": "__props---theindianjustice-academy-blog-authors-854-eda"
+  },
+  "/theindianjustice-academy/blog/authors/nikhil-m-95f": {
+    "__comp": "__comp---theme-blog-pages-blog-authors-posts-page-33-f-bd5",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---theindianjustice-academy-blog-authorsace-774"
+      },
+      "plugin": "plugin---theindianjustice-academy-blog-369-a4c"
+    },
+    "items": [
+      {
+        "content": "content---theindianjustice-academy-blog-3-b-0-00e"
+      }
+    ],
+    "sidebar": "sidebar---theindianjustice-academy-blog-814-e01",
+    "__props": "__props---theindianjustice-academy-blog-authors-nikhil-mce-8-f3b"
+  },
+  "/theindianjustice-academy/blog/long-blog-post-475": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---theindianjustice-academy-blog-authorsace-774"
+      },
+      "plugin": "plugin---theindianjustice-academy-blog-369-a4c"
+    },
+    "sidebar": "sidebar---theindianjustice-academy-blog-814-e01",
+    "content": "content---theindianjustice-academy-blog-long-blog-postc-7-c-e57"
+  },
+  "/theindianjustice-academy/markdown-page-4e7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---theindianjustice-academy-markdown-pagea-74-c2e"
+    },
+    "content": "content---theindianjustice-academy-markdown-page-4-c-6-046"
+  },
+  "/theindianjustice-academy/docs-5f6": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---theindianjustice-academy-docsaba-888"
+    }
+  },
+  "/theindianjustice-academy/docs-0ea": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---theindianjustice-academy-docs-85-d-5a2"
+  },
+  "/theindianjustice-academy/docs-a2f": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/theindianjustice-academy/docs/category/registration-act-d30": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---theindianjustice-academy-docs-category-registration-act-9-eb-068"
+  },
+  "/theindianjustice-academy/docs/category/the-advocates-act-1961-15c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---theindianjustice-academy-docs-category-the-advocates-act-19616-ca-69b"
+  },
+  "/theindianjustice-academy/docs/category/the-karnataka-land-revenue-act-1964-a0e": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---theindianjustice-academy-docs-category-the-karnataka-land-revenue-act-196459-d-0d4"
+  },
+  "/theindianjustice-academy/docs/intro-6f9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-introf-84-f3b"
+  },
+  "/theindianjustice-academy/docs/registration-act/registration-establishments-de5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-registration-act-registration-establishments-225-74d"
+  },
+  "/theindianjustice-academy/docs/the-advocates-act-1961/advocates-act-chapter-ii-816": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-the-advocates-act-1961-advocates-act-chapter-iic-02-821"
+  },
+  "/theindianjustice-academy/docs/the-advocates-act-1961/K-V-Krishnaswami-Aiyar-c27": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-the-advocates-act-1961-k-v-krishnaswami-aiyarc-3-c-548"
+  },
+  "/theindianjustice-academy/docs/the-advocates-act-1961/legal-profession-in-india-5cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-the-advocates-act-1961-legal-profession-in-indiaec-3-683"
+  },
+  "/theindianjustice-academy/docs/the-advocates-act-1961/senior-advocate-729": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-the-advocates-act-1961-senior-advocate-773-960"
+  },
+  "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Appeal-and-Revision-3a8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-the-karnataka-land-revenue-act-1964-appeal-and-revisionddf-833"
+  },
+  "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Boundary and Boundary Marks-562": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-the-karnataka-land-revenue-act-1964-boundary-and-boundary-marks-935-ee3"
+  },
+  "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Constitution-and-Powers-of-the-Karnataka-Revenue-Appellate-Tribunal-431": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-the-karnataka-land-revenue-act-1964-constitution-and-powers-of-the-karnataka-revenue-appellate-tribunal-5-a-9-e55"
+  },
+  "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/historical-development-of-land-laws-0b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-the-karnataka-land-revenue-act-1964-historical-development-of-land-laws-206-f35"
+  },
+  "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Land-and-Land-Revenue-2b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-the-karnataka-land-revenue-act-1964-land-and-land-revenue-2-e-0-e82"
+  },
+  "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Pre-Independence-and-Post-Independence-Scenario-3f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-the-karnataka-land-revenue-act-1964-pre-independence-and-post-independence-scenario-49-c-5c5"
+  },
+  "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/procedures-of-revenue-officers-a8a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-the-karnataka-land-revenue-act-1964-procedures-of-revenue-officersd-2-f-e48"
+  },
+  "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Realisation of land revenue and other public demands-44f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-the-karnataka-land-revenue-act-1964-realisation-of-land-revenue-and-other-public-demands-98-f-a60"
+  },
+  "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Record of Rights-117": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-the-karnataka-land-revenue-act-1964-record-of-rights-3-bc-c95"
+  },
+  "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Revenue-Jurisdiction-6d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-the-karnataka-land-revenue-act-1964-revenue-jurisdiction-912-ed8"
+  },
+  "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Survey and Settlement-532": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-the-karnataka-land-revenue-act-1964-survey-and-settlementb-44-aa1"
+  },
+  "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/The-Constitution-and-Powers-of-the-Revenue-Officers-2ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---theindianjustice-academy-docs-the-karnataka-land-revenue-act-1964-the-constitution-and-powers-of-the-revenue-officers-84-e-964"
+  },
+  "/theindianjustice-academy/-a74": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---theindianjustice-academy-markdown-pagea-74-c2e"
+    },
+    "config": "config---theindianjustice-academy-5-e-9-761"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "professional-ethics/senior_advocate",
+  "title": "Senior Advocate: Designation, Procedure and Restrictions",
+  "description": "1. Introduction",
+  "source": "@site/docs/professional-ethics/senior_advocate.md",
+  "sourceDirName": "professional-ethics",
+  "slug": "/professional-ethics/senior_advocate",
+  "permalink": "/theindianjustice-academy/docs/professional-ethics/senior_advocate",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "#/docs/professional-ethics/senior_advocate.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Professional Conduct and Advocacy",
+    "permalink": "/theindianjustice-academy/docs/professional-ethics/KVKrishnaswamiAiyar"
+  }
+}

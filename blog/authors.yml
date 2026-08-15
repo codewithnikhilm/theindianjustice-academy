@@ -1,8 +1,8 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
+Nikhil M:
+  name: Nikhil M
+  title: Founder of The Indian Justice
   url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+  image_url: /build/assets/images/nikhil-m-7170cd09a877d3dddba5c78652b572ef.png
   page: true
   socials:
     x: yangshunz
@@ -10,16 +10,4 @@ yangshun:
     github: yangshun
     newsletter: https://www.greatfrontend.com
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+

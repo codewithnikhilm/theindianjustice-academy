@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_indian_justice_academy=self.webpackChunkthe_indian_justice_academy||[]).push([["1833"],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Making Law Studies Efficient","permalink":"/theindianjustice-academy/blog/long-blog-post","unlisted":false,"date":"2026-08-15T00:00:00.000Z"}]}')}}]);

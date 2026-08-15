@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_indian_justice_academy=self.webpackChunkthe_indian_justice_academy||[]).push([["3056"],{8552(e){e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

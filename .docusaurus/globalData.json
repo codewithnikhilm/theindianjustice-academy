@@ -1,0 +1,133 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/theindianjustice-academy/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/theindianjustice-academy/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/theindianjustice-academy/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "registration-act/registration-establishments",
+              "path": "/theindianjustice-academy/docs/registration-act/registration-establishments",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-advocates-act-1961/advocates-act-chapter-ii",
+              "path": "/theindianjustice-academy/docs/the-advocates-act-1961/advocates-act-chapter-ii",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-advocates-act-1961/K-V-Krishnaswami-Aiyar",
+              "path": "/theindianjustice-academy/docs/the-advocates-act-1961/K-V-Krishnaswami-Aiyar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-advocates-act-1961/legal-profession-in-india",
+              "path": "/theindianjustice-academy/docs/the-advocates-act-1961/legal-profession-in-india",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-advocates-act-1961/senior-advocate",
+              "path": "/theindianjustice-academy/docs/the-advocates-act-1961/senior-advocate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-karnataka-land-revenue-act-1964/Appeal-and-Revision",
+              "path": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Appeal-and-Revision",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-karnataka-land-revenue-act-1964/Boundary and Boundary Marks",
+              "path": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Boundary and Boundary Marks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-karnataka-land-revenue-act-1964/Constitution-and-Powers-of-the-Karnataka-Revenue-Appellate-Tribunal",
+              "path": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Constitution-and-Powers-of-the-Karnataka-Revenue-Appellate-Tribunal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-karnataka-land-revenue-act-1964/historical-development-of-land-laws",
+              "path": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/historical-development-of-land-laws",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-karnataka-land-revenue-act-1964/Land-and-Land-Revenue",
+              "path": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Land-and-Land-Revenue",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-karnataka-land-revenue-act-1964/Pre-Independence-and-Post-Independence-Scenario",
+              "path": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Pre-Independence-and-Post-Independence-Scenario",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-karnataka-land-revenue-act-1964/procedures-of-revenue-officers",
+              "path": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/procedures-of-revenue-officers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-karnataka-land-revenue-act-1964/Realisation of land revenue and other public demands",
+              "path": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Realisation of land revenue and other public demands",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-karnataka-land-revenue-act-1964/Record of Rights",
+              "path": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Record of Rights",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-karnataka-land-revenue-act-1964/Revenue-Jurisdiction",
+              "path": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Revenue-Jurisdiction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-karnataka-land-revenue-act-1964/Survey and Settlement",
+              "path": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Survey and Settlement",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "the-karnataka-land-revenue-act-1964/The-Constitution-and-Powers-of-the-Revenue-Officers",
+              "path": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/The-Constitution-and-Powers-of-the-Revenue-Officers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/registration-act",
+              "path": "/theindianjustice-academy/docs/category/registration-act",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/the-karnataka-land-revenue-act-1964",
+              "path": "/theindianjustice-academy/docs/category/the-karnataka-land-revenue-act-1964",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/the-advocates-act-1961",
+              "path": "/theindianjustice-academy/docs/category/the-advocates-act-1961",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/theindianjustice-academy/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

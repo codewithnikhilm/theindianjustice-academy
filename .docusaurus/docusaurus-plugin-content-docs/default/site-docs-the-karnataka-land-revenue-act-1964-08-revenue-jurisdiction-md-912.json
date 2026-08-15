@@ -1,0 +1,28 @@
+{
+  "id": "the-karnataka-land-revenue-act-1964/Revenue-Jurisdiction",
+  "title": "Revenue Jurisdiction under the Karnataka Land Revenue",
+  "description": "The Revenue Jurisdiction under the Karnataka Land Revenue Act, 1964, is primarily governed by Chapter VI (Sections 60 to 66). This Chapter establishes the boundary between the jurisdiction of Revenue Courts and Civil Courts in matters relating to land revenue and revenue administration.",
+  "source": "@site/docs/the-karnataka-land-revenue-act-1964/08-Revenue-Jurisdiction.md",
+  "sourceDirName": "the-karnataka-land-revenue-act-1964",
+  "slug": "/the-karnataka-land-revenue-act-1964/Revenue-Jurisdiction",
+  "permalink": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Revenue-Jurisdiction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "#/docs/the-karnataka-land-revenue-act-1964/08-Revenue-Jurisdiction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "title": "Revenue Jurisdiction under the Karnataka Land Revenue",
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Appeals and Revision",
+    "permalink": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Appeal-and-Revision"
+  },
+  "next": {
+    "title": "Land-and-Land-Revenue",
+    "permalink": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Land-and-Land-Revenue"
+  }
+}

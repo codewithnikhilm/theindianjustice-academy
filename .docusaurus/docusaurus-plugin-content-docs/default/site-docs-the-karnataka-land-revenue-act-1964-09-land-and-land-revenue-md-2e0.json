@@ -1,0 +1,25 @@
+{
+  "id": "the-karnataka-land-revenue-act-1964/Land-and-Land-Revenue",
+  "title": "Land-and-Land-Revenue",
+  "description": "",
+  "source": "@site/docs/the-karnataka-land-revenue-act-1964/09-Land-and-Land-Revenue.md",
+  "sourceDirName": "the-karnataka-land-revenue-act-1964",
+  "slug": "/the-karnataka-land-revenue-act-1964/Land-and-Land-Revenue",
+  "permalink": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Land-and-Land-Revenue",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "#/docs/the-karnataka-land-revenue-act-1964/09-Land-and-Land-Revenue.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Revenue Jurisdiction under the Karnataka Land Revenue",
+    "permalink": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Revenue-Jurisdiction"
+  },
+  "next": {
+    "title": "Boundary and Boundary Marks",
+    "permalink": "/theindianjustice-academy/docs/the-karnataka-land-revenue-act-1964/Boundary and Boundary Marks"
+  }
+}

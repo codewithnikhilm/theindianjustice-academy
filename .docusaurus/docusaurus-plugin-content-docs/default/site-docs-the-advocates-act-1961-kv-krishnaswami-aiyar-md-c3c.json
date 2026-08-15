@@ -1,0 +1,30 @@
+{
+  "id": "the-advocates-act-1961/K-V-Krishnaswami-Aiyar",
+  "title": "K. V. Krishnaswami Aiyar",
+  "description": "K. V. Krishnaswami Aiyar",
+  "source": "@site/docs/the-advocates-act-1961/KVKrishnaswamiAiyar.md",
+  "sourceDirName": "the-advocates-act-1961",
+  "slug": "/the-advocates-act-1961/K-V-Krishnaswami-Aiyar",
+  "permalink": "/theindianjustice-academy/docs/the-advocates-act-1961/K-V-Krishnaswami-Aiyar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "#/docs/the-advocates-act-1961/KVKrishnaswamiAiyar.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "K-V-Krishnaswami-Aiyar",
+    "title": "K. V. Krishnaswami Aiyar",
+    "sidebar_label": "K. V. Krishnaswami Aiyar's Professional Conduct and Advocacy",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Advocates Act, 1961",
+    "permalink": "/theindianjustice-academy/docs/category/the-advocates-act-1961"
+  },
+  "next": {
+    "title": "Legal Profession in India",
+    "permalink": "/theindianjustice-academy/docs/the-advocates-act-1961/legal-profession-in-india"
+  }
+}

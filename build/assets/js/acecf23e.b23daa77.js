@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_indian_justice_academy=self.webpackChunkthe_indian_justice_academy||[]).push([["3220"],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/theindianjustice-academy/blog","blogTitle":"Blog","authorsListPath":"/theindianjustice-academy/blog/authors"}')}}]);

@@ -1,0 +1,24 @@
+{
+  "id": "registration-act/registration-establishments",
+  "title": "registration-establishments",
+  "description": "",
+  "source": "@site/docs/registration-act/registration-establishments.md",
+  "sourceDirName": "registration-act",
+  "slug": "/registration-act/registration-establishments",
+  "permalink": "/theindianjustice-academy/docs/registration-act/registration-establishments",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "#/docs/registration-act/registration-establishments.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Registration Act",
+    "permalink": "/theindianjustice-academy/docs/category/registration-act"
+  },
+  "next": {
+    "title": "The Karnataka Land Revenue Act, 1964",
+    "permalink": "/theindianjustice-academy/docs/category/the-karnataka-land-revenue-act-1964"
+  }
+}

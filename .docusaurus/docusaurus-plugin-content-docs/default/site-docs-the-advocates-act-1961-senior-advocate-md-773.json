@@ -1,0 +1,30 @@
+{
+  "id": "the-advocates-act-1961/senior-advocate",
+  "title": "Senior Advocate",
+  "description": "1. Introduction",
+  "source": "@site/docs/the-advocates-act-1961/senior_advocate.md",
+  "sourceDirName": "the-advocates-act-1961",
+  "slug": "/the-advocates-act-1961/senior-advocate",
+  "permalink": "/theindianjustice-academy/docs/the-advocates-act-1961/senior-advocate",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "#/docs/the-advocates-act-1961/senior_advocate.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "senior-advocate",
+    "title": "Senior Advocate",
+    "sidebar_label": "Blog on Senior Advocate",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Legal Profession in India",
+    "permalink": "/theindianjustice-academy/docs/the-advocates-act-1961/legal-profession-in-india"
+  },
+  "next": {
+    "title": "Chapter II of the Advocates Act, 1961",
+    "permalink": "/theindianjustice-academy/docs/the-advocates-act-1961/advocates-act-chapter-ii"
+  }
+}

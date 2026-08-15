@@ -1,0 +1,30 @@
+{
+  "id": "professional-ethics/advocates-act-chapter-ii",
+  "title": "Chapter II",
+  "description": "A. Map of Sections in Chapter II",
+  "source": "@site/docs/professional-ethics/CHAPTER II BAR COUNCILS.md",
+  "sourceDirName": "professional-ethics",
+  "slug": "/professional-ethics/advocates-act-chapter-ii",
+  "permalink": "/theindianjustice-academy/docs/professional-ethics/advocates-act-chapter-ii",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "#/docs/professional-ethics/CHAPTER II BAR COUNCILS.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "advocates-act-chapter-ii",
+    "title": "Chapter II",
+    "sidebar_label": "Chapter II of the Advocates Act, 1961",
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Legal Profession in India",
+    "permalink": "/theindianjustice-academy/docs/professional-ethics/legal-profession-in-india"
+  },
+  "next": {
+    "title": "Professional Conduct and Advocacy",
+    "permalink": "/theindianjustice-academy/docs/professional-ethics/KVKrishnaswamiAiyar"
+  }
+}

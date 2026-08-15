@@ -72,9 +72,9 @@ export default function Home() {
           />
 
           <SubjectCard
-            title="⚖️ Professional Ethics"
-            description="Legal profession, Bar Councils and the Advocates Act."
-            link="/docs/professional-ethics/legal-profession-in-india"
+            title="🎗️ The Advocates Act, 1961"
+            description="Ethics, Legal profession, Bar Councils and the Advocates Act."
+            link="/docs/category/the-advocates-act-1961"
           />
 
           <SubjectCard

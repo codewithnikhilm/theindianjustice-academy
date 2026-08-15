@@ -97,10 +97,16 @@ const config = {
             position: 'left',
             label: 'Notes',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'Enactments',
+          },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/codewithnikhilm/theindianjustice-academy',
-            label: 'GitHub',
+            href: 'https://www.instagram.com/theindianjustice/',
+            label: 'Instagram',
             position: 'right',
           },
         ],
@@ -125,7 +131,7 @@ const config = {
               },
               {
                 label: 'Professional Ethics',
-                to: '/docs/professional-ethics/legal-profession-in-india',
+                to: '/docs/category/the-advocates-act-1961',
               },
             ],
           },
