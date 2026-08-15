@@ -90,7 +90,7 @@ export default function Home() {
           <SubjectCard
             title="🏠 Transfer of Property"
             description="Transfer of Property Act."
-            link="docs\category\the-transfer-of-property-act-1882"
+            link="/docs/category/the-transfer-of-property-act-1882"
           />
 
           <SubjectCard
