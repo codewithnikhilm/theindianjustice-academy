@@ -15,9 +15,7 @@ const config = {
   tagline: 'Learn Law. Think Justice.',
   favicon: 'img/logo11.png',
 
-  future: {
-    v4: true,
-  },
+  
 
   url: 'https://codewithnikhilm.github.io',
   baseUrl: '/theindianjustice-academy/',
@@ -39,8 +37,7 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl:
-            '#',
+          
         },
         blog: {
           showReadingTime: true,
@@ -48,8 +45,7 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          editUrl:
-            '#',
+          
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
