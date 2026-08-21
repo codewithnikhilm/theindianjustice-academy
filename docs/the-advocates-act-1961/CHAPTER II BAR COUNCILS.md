@@ -2,7 +2,7 @@
 id: advocates-act-chapter-ii
 title: Chapter II
 sidebar_label: Chapter II of the Advocates Act, 1961
-sidebar_position: 4
+sidebar_position: 5
 ---
 # Chapter II of the Advocates Act, 1961
 
