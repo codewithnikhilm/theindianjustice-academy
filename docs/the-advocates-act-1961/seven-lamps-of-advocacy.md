@@ -1,265 +1,141 @@
 ---
-id: senior-advocate
-title: Senior Advocate
-sidebar_label: Blog on Senior Advocate
-sidebar_position: 3
+id: seven-lamps-of-advocay
+title: Seven Lamps of Advocacy
+sidebar_label: Seven Lamps of Advocacy
+sidebar_position: 4
 ---
 
-# Senior Advocate: Designation, Procedure and Restrictions
+# THE SEVEN LAMPS OF ADVOCACY
 
-## 1. Introduction
-
-The legal profession in India recognises two categories of advocates—**Senior Advocates and other Advocates**. This classification is provided under Section 16 of the Advocates Act, 1961. Senior Advocate designation is conferred upon advocates who, in the opinion of the Supreme Court or a High Court, possess exceptional ability, standing at the Bar, or special knowledge or experience in law.
-
-The designation of a Senior Advocate is not merely a matter of seniority based on the number of years of practice. It is a recognition of professional ability, legal knowledge, experience, reputation and suitability for the status of a Senior Advocate.
-
-The Supreme Court's **Guidelines for Designation of Senior Advocates, 2023** provide a detailed procedure for designation before the Supreme Court. The Guidelines establish a permanent Committee for dealing with matters relating to the designation of Senior Advocates.
+## A Study of the Principles of Legal Practice
 
 ---
 
-## 2. Who is a Senior Advocate?
+## I. THE LAMP OF HONESTY
 
-A Senior Advocate is an advocate who has been formally designated as such by the Supreme Court or a High Court because of his or her:
+The student of advocacy can draw inspiration from the stored-up experience of his elders. Without a free and honourable race of advocates, the world will hear little of the message of justice. Advocacy is the outward and visible appeal for the spiritual gift of justice. The advocate is the priest in the temple of justice, trained in the mysteries of the creed, active in its exercises.
 
-* ability as an advocate;
-* standing at the Bar;
-* special knowledge or experience in law; and
-* overall professional suitability.
+Upon the altars of justice, the advocate must keep his seven lamps clean and burning rightly. In the centre of these must ever be the lamp of honesty.
 
-Therefore, **every advocate with long experience is not automatically a Senior Advocate**. Designation is a formal process and requires consideration by the competent court.
+From the earliest times, Englishmen have understood that advocacy is necessary to justice, and honesty is essential to advocacy. Every pleader who acts in the business of another should have regard to four things:
 
-The designation carries professional distinction but also imposes certain restrictions on the manner in which the advocate may practise.
+1. That he be a person receivable in court
+2. That every pleader is bound by oath that he will not knowingly maintain or defend wrong or falsehood
+3. That he will never have recourse to false delays or false witnesses
+4. There is the salary, concerning which four points must be regarded
 
----
+Lord Chief Justice Cockburn set forth his views of an advocate's duty:
 
-## 3. Designation of Senior Advocates by the Supreme Court
+> "The arms which an advocate wields he ought to use as a warrior, not as an assassin. He ought to uphold the interests of his client *per fas*, and not *per nefas*. He ought to know how to reconcile the interests of his clients with the eternal interests of truth and justice."
 
-The Supreme Court of India has prescribed the **Guidelines for Designation of Senior Advocates, 2023**.
-
-### A. Permanent Committee
-
-All matters relating to designation of Senior Advocates in the Supreme Court are dealt with by a Permanent Committee known as the **Committee for Designation of Senior Advocates**.
-
-The Committee consists of:
-
-1. Chief Justice of India – Chairperson;
-2. Two senior-most Judges of the Supreme Court;
-3. Attorney General for India; and
-4. One member of the Bar nominated by the Chairperson and the other members.
-
-The Committee is required to meet at least twice in every calendar year.
+If an advocate knows the law to be *x*, it is not honest to lead the court to believe that it is *y*. Whether the advocate does this by directly mis-stating the law, or by deliberately omitting to state it fully within the means of his knowledge, it is equally without excuse, and dims the lamp of honesty. The advocate must remember that he is not only the servant of the client, but the friend of the court, and honesty is as essential to true friendship as it is to sound advocacy.
 
 ---
 
-## 4. Who can be considered for designation?
+## II. THE LAMP OF COURAGE
 
-Under the 2023 Guidelines, an advocate is eligible for consideration if the prescribed conditions are satisfied.
+Advocacy needs the "king-becoming graces: devotion, patience, courage, fortitude." Advocacy is a form of combat where courage in danger is half the battle. Courage is as good a weapon in the forum as in the camp.
 
-### Minimum professional standing
+Unless a man has the spirit to encounter difficulties with firmness and pluck, he had best leave advocacy alone. The belief that success in advocacy can be attained by influence, apart from personal qualifications, is ill-founded. Learning begets courage, and wise self-confidence can only be founded on knowledge. In no profession is it more certain that "knowledge is power."
 
-The advocate must have at least:
+The sacrifice of the highest professional honours to the maintenance of principle has been a commonplace in the history of English advocates. The true position of the independence of the English Bar—the right and the duty of the advocate to appear in every case, however poor, degraded, or wicked the party may be—is laid down once and for all in a celebrated speech of Erskine's:
 
-* **10 years' standing as an Advocate**, or
-* **10 years' combined standing** as an Advocate and as a District and Sessions Judge or Judicial Member of a qualifying Tribunal in India.
-
-### Practice
-
-The advocate should mainly practise in the **Supreme Court**.
-
-However, advocates having domain expertise and substantial practice before specialised tribunals may receive concession regarding the extent of their appearances in the Supreme Court.
-
-### Age
-
-The normal requirement is that the advocate should have attained **45 years of age**.
-
-The age requirement may, however, be relaxed by the Committee, or the advocate may be recommended by the Chief Justice of India or a Judge of the Supreme Court.
+> "I will for ever, at ALL HAZARDS, ASSERT THE DIGNITY, INDEPENDENCE, AND INTEGRITY OF THE ENGLISH BAR; without which, impartial justice, the most valuable part of the English Constitution, can have no existence."
 
 ---
 
-## 5. Who can recommend an advocate?
+## III. THE LAMP OF INDUSTRY
 
-The Chief Justice of India or any Judge of the Supreme Court may recommend in writing the name of an advocate for designation as a Senior Advocate if the advocate mainly practises in the Supreme Court and is considered suitable by virtue of ability, standing at the Bar, or special knowledge or experience in law.
+There never was a successful advocate who did not owe some of his prowess to industry. From the biographies of our ancestors we may learn that the eminent successful ones of each generation practised at least enough industry in their day to preach its virtues to aspiring juniors.
 
-Apart from judicial recommendations, the Secretariat of the Committee initiates the process by inviting applications from Advocates-on-Record and Advocates.
+Work soon becomes a habit. It may not be altogether a good habit, but it is better to wear out than to rust out.
 
-The notice inviting applications is published on the official website of the Supreme Court, and at least **21 days** are provided for submission of applications.
+All great advocates tell us that they have had either steady habits of industry or grand outbursts of work. Abraham Lincoln owed his sound knowledge of law to grim, zealous industry. His advice was, "Work! work! work!"
 
----
-
-## 6. Scrutiny and collection of information
-
-After receiving applications and recommendations, the Secretariat collects relevant information regarding the advocate's:
-
-* reputation;
-* conduct;
-* integrity;
-* professional experience;
-* judgments;
-* pro bono work;
-* domain expertise; and
-* other relevant professional achievements.
-
-The proposals are also published on the Supreme Court's website, and stakeholders are invited to provide their views or suggestions regarding the proposed designation. At least **15 days** are provided for such suggestions.
-
-This mechanism makes the designation process more transparent and allows professional stakeholders to place relevant information before the Committee.
+An advocate must study his brief in the same way that an actor studies his part. Success in advocacy is not arrived at by intuition. You have to work hard and to think hard. Industry in reading and book-learning may make a man a good jurist, but the advocate must exercise his industry in the double art of speaking and arranging his thoughts in ordered speech.
 
 ---
 
-## 7. Point-based assessment
+## IV. THE LAMP OF WIT
 
-One of the important features of the 2023 Guidelines is the point-based assessment.
+Wit, wisely used, bridges over a difficulty, smooths away annoyance, or perhaps turns aside anger, dissolving embarrassment in a second's laughter. It may be gracious and full of kindliness, putting a timid man at his ease, or instinct with good-humour, softening wrath or mitigating tedious irrelevancy.
 
-The Committee assesses candidates on the following broad criteria:
+Often the wit of an advocate will turn a judge from an unwise course where argument or rhetoric would certainly fail. Wit is often the fittest instrument with which to destroy the bubble of bombast. Wit, skilfully used, is the kindliest and most effective method of exhibiting the futility of judicial interruptions.
 
-| Criteria                                                          | Maximum Points |
-| ----------------------------------------------------------------- | -------------: |
-| Years of practice                                                 |             20 |
-| Reported/unreported judgments, pro bono work and domain expertise |             50 |
-| Academic articles, teaching and guest lectures                    |              5 |
-| Personality and suitability through interview                     |             25 |
-| **Total**                                                         |        **100** |
-
-The largest component is the advocate's contribution through judgments, pro bono work and specialised legal expertise. The interview also carries substantial weight because it enables a holistic assessment of the candidate's personality and suitability.
+Wit and courtesy need never be divorced. They are, indeed, complementary. "Brevity is the soul of wit." Good advocacy displays the highest form of wit in an instinct for brevity.
 
 ---
 
-## 8. Interview and Full Court consideration
+## V. THE LAMP OF ELOQUENCE
 
-The Committee may shortlist candidates for an interview. The names shortlisted for interview, including candidates cleared by the Committee, are placed before the **Full Court**.
+The test of eloquence in advocacy is necessarily its effect upon those to whom it is addressed. The aim of eloquence is persuasion. The one absolute essential is sincerity, or, perhaps one should say, the appearance of sincerity.
 
-The Guidelines provide that there shall ordinarily be no voting by secret ballot except in an exceptional situation for reasons to be recorded.
+Eloquence of manner is real eloquence, and is a gift not to be despised. There is a physical as well as a psychological side to advocacy. Nearly every great advocate has found it necessary to make use of the eloquence of persuasion.
 
-The final decision of the Full Court is communicated individually to the applicants.
+The moral of the lives of the advocates seems to be that in the house of eloquence there are many mansions, and any style natural to the man who uses it is his right style, and may succeed. One besetting sin of many would-be eloquent speakers is fatal, and that is bombast.
 
-Thus, designation is not completed merely because an advocate satisfies the minimum eligibility requirements. The eligibility requirements only permit consideration; the final designation depends upon the prescribed assessment and decision of the Full Court.
+There is no golden rule of method, but there is this golden principle to remember: the message of eloquence is addressed to the heart rather than the brain.
 
----
-
-## 9. Reconsideration and withdrawal of designation
-
-If an application is not favourably considered by the Full Court, it may be reviewed or reconsidered after the expiry of **two years**. The advocate is also not prevented from applying to a High Court for designation as a Senior Advocate.
-
-The Full Court also has the power to review its decision to designate an advocate as a Senior Advocate and **recall the designation** if the advocate is subsequently found guilty of conduct which, in the opinion of the Full Court, disentitles the advocate to the designation.
-
-However, the advocate must be given an opportunity of being heard before such action is taken.
+> "Gain the heart, or you gain nothing; the eyes and the ears are the only road to the heart."
 
 ---
 
-## 10. Restrictions on Senior Advocates
+## VI. THE LAMP OF JUDGMENT
 
-The special status of a Senior Advocate comes with corresponding restrictions. These restrictions are primarily intended to preserve the professional dignity of the office and ensure that Senior Advocates concentrate on advocacy and legal assistance rather than undertaking functions that can be performed by other advocates.
+Judgment inspires a man to translate good sense into right action. Let no one think that he can attain to sound judgment without hard work. The judgment of the advocate must be based on the maxim, "He that judges without informing himself to the utmost that he is capable cannot acquit himself of judging amiss."
 
-The Bar Council of India Rules impose specific restrictions upon Senior Advocates.
+A client is entitled to the independent judgment of the advocate. Whether his judgment is right or wrong, it is the duty of the advocate to place it at the disposal of his client.
 
-### A. No filing of vakalatnama or acting
+An advocate of judgment has the power of gathering up the scattered threads of facts and weaving them into a pattern surrounding and emphasising the central point of the case. In every case there is one commanding theory, to the proof of which all the facts must be skilfully marshalled. An advocate with one point has infinitely greater chances than an advocate with twenty points.
 
-A Senior Advocate generally cannot file a vakalatnama or act on behalf of a client in the manner in which an Advocate ordinarily acts.
+In nothing does the advocate more openly exhibit want of judgment than in prolixity. Modern courts of justice are blamed by the public, not wholly without cause, for the length and consequent expense of trials. To poor people this may mean a denial of justice.
 
-The Senior Advocate primarily appears and argues in court, while the procedural and filing work is undertaken through an Advocate-on-Record or other Advocate as permitted by the applicable rules.
+The judgment of an advocate may be called upon at any moment for a sudden decision that may mean the victory or defeat of his client. For this reason it is necessary that he should be always alert.
 
-### B. Cannot appear without another Advocate
+Two golden rules handed down from the eighteenth century are still unlearned lessons to each succeeding generation of advocates:
 
-A Senior Advocate cannot ordinarily appear before a court or tribunal without an Advocate accompanying him.
-
-Therefore, the Senior Advocate does not ordinarily function as the sole procedural advocate for the client. The other Advocate handles the procedural aspects and instructs the Senior Advocate regarding the case.
-
-This reflects the distinction between the **arguing role of a Senior Advocate** and the **acting/procedural role of the instructing Advocate**.
-
-### C. No drafting of pleadings and certain procedural documents
-
-A Senior Advocate is subject to restrictions regarding drafting pleadings and other procedural documents.
-
-The purpose is to ensure that the Senior Advocate concentrates primarily on legal arguments, opinions and advocacy, while the instructing Advocate handles procedural work.
-
-### D. Cannot file appearance or act without an Advocate-on-Record in the Supreme Court
-
-In the Supreme Court, the Advocate-on-Record system is particularly important. A Senior Advocate generally appears through an Advocate-on-Record.
-
-The Advocate-on-Record remains responsible for filing and procedural requirements, while the Senior Advocate provides specialised advocacy.
-
-### E. Restrictions regarding briefing
-
-A Senior Advocate is not expected to accept a brief directly from the client in the ordinary manner. The brief is ordinarily received through an Advocate.
-
-This maintains the professional structure between the client, instructing Advocate and Senior Advocate.
-
-### F. Restriction on accepting certain briefs
-
-The Bar Council rules also impose restrictions regarding accepting briefs in circumstances involving conflicts of interest and other professional improprieties. A Senior Advocate, like every advocate, remains bound by the general standards of professional conduct and etiquette.
-
-For example, an advocate should not act or plead in a matter in which he is personally pecuniarily interested.
+1. Never ask a question without having a good reason to assign for asking it
+2. Never hazard a critical question without having good ground to believe that the answer will be in your favour
 
 ---
 
-## 11. General professional restrictions applicable to Advocates
+## VII. THE LAMP OF FELLOWSHIP
 
-In addition to the special restrictions applicable to Senior Advocates, Senior Advocates are also bound by the general standards of professional conduct prescribed by the Bar Council of India.
+An advocate lacking in fellowship, careless of the sacred traditions of brotherhood which have kept the lamp of fellowship burning brightly for the English Bar through many centuries, misses the heart of the thing, and he and his clients will suffer accordingly.
 
-Some important duties include:
+Fitzjames Stephen wisely said of the English Bar that it is:
 
-### Duty towards the Court
+> "exactly like a great public school, the boys of which have grown older, and have exchanged boyish for manly objects. There is just the same rough familiarity, the general ardour of character, the same kind of unwritten code of morals and manners."
 
-An advocate must conduct himself with dignity and self-respect while appearing before a court.
+The fellowship of the Temple springs from its long traditions of brotherhood among the Templars. To turn out of the Strand into its quiet courts brings over your brooding spirit something of that sacred melancholy pleasure which one feels on entering the old school.
 
-The advocate must maintain a respectful attitude towards the Court and must not attempt to influence the decision of the Court through illegal or improper means.
-
-Private communications with a judge concerning a pending case are prohibited.
-
-### Duty to prevent improper conduct
-
-An advocate must attempt to prevent his client from adopting unfair or improper practices in relation to the Court, opposing counsel or other parties.
-
-The advocate is not merely a mouthpiece of the client and must exercise independent professional judgment.
-
-### Conflict of interest
-
-An advocate should not act or plead in a matter in which he has a personal pecuniary interest.
-
-For example, an advocate should not accept a brief from a company in which he is a director when such circumstances create a conflict with his professional obligations.
-
-### Appearance and dress
-
-An advocate must appear before the Court in the prescribed dress and maintain a presentable appearance.
-
-These professional duties apply to Senior Advocates as members of the legal profession and reinforce the higher standards expected from them.
+We have seen how of old the senior members of the Bar trained up the juniors in the mystery of their craft, and throughout the practice of the profession it has always been a point of honour for the elders to assist the beginners in those difficult days of apprenticeship.
 
 ---
 
-## 12. Why are Senior Advocates subject to restrictions?
+## VIII. JUSTICE WITH HUMANISM — THE EIGHTH LAMP
 
-The restrictions are not intended to reduce the authority of Senior Advocates. Rather, they are connected with the special role and status attached to the designation.
+The seven traditional lamps describe the qualities required to become a good advocate. However, the life and jurisprudence of Justice V.R. Krishna Iyer allow us to add another essential dimension: the advocate must always remember the human being behind the legal dispute.
 
-A Senior Advocate is expected to contribute primarily through:
+Law is not merely a collection of statutes, precedents and procedural rules. It is a living instrument that ultimately affects human life and human dignity.
 
-* legal knowledge;
-* specialised advocacy;
-* interpretation of law;
-* formulation of legal arguments;
-* assistance to courts in difficult questions of law; and
-* professional leadership at the Bar.
+Krishna Iyer's jurisprudence repeatedly emphasised this human dimension. His landmark judgments on prisoners' rights, personal liberty, and access to justice demonstrated that courts must never lose sight of the individual while applying the law. He believed that the ultimate test of a legal system is whether it serves the poorest and most vulnerable members of society.
 
-The procedural work can therefore be handled by the instructing Advocate, allowing the Senior Advocate to concentrate on advocacy and legal strategy.
+Therefore, his enduring contribution to the philosophy of advocacy can be described as:
 
----
+> **The Eighth Lamp — Humanism in the pursuit of Justice.**
 
-## 13. Importance of the designation
-
-Designation as a Senior Advocate represents professional recognition by the judiciary. It recognises an advocate's contribution to the legal profession rather than merely the length of practice.
-
-The 2023 Supreme Court Guidelines demonstrate this by giving significant weight to judgments, pro bono work, domain expertise, academic contributions, personality and suitability.
-
-The application itself requires extensive information concerning the advocate's practice, judgments, pro bono and amicus curiae work, publications, teaching experience, areas of specialisation and professional background.
-
-The application also requires disclosure of matters such as FIRs, pending litigation, convictions, disciplinary proceedings and proceedings before the Bar Council.
-
-This demonstrates that professional conduct and integrity are important considerations in determining whether an advocate is suitable for the status of Senior Advocate.
+An advocate should not measure success only by winning cases or earning high fees. The advocate must also constantly ask whether the legal system is functioning fairly, and whether the rights and dignity of every individual—especially the underprivileged and the accused—are being protected. This humanistic vision transforms advocacy from a mere technical profession into a noble calling dedicated to the service of humanity.
 
 ---
 
-## 14. Conclusion
 
-The designation of Senior Advocates is an important mechanism for recognising excellence in the legal profession. Under the Supreme Court's 2023 Guidelines, designation involves eligibility requirements, applications or recommendations, scrutiny of professional records, stakeholder feedback, point-based assessment, interview and consideration by the Full Court.
+## Conclusion
 
-However, the status of Senior Advocate is accompanied by special professional restrictions. A Senior Advocate primarily performs the role of an arguing counsel and ordinarily works through an Advocate-on-Record or instructing Advocate for procedural and filing requirements. Senior Advocates are also bound by the general professional duties imposed upon all advocates.
+Advocacy is a noble profession, requiring the cultivation of these seven essential virtues. The advocate who keeps all these lamps burning brightly serves not only his client but the cause of justice itself. Let us remember the words of the ancients:
 
-Therefore, the designation represents both **professional recognition and professional responsibility**. The higher status given to a Senior Advocate is accompanied by higher expectations of legal ability, integrity, independence, dignity and professional conduct.
+> "And do as adversaries do in law, strive mightily, but eat and drink as friends."
+
+---
+
+**Source:** [Seven Lamps of Advocates](https://ksbc.org.in/seven_lamps_of_advocates.php)
