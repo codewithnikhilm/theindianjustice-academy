@@ -59,6 +59,13 @@ export default function Home() {
           }}
         >
           <SubjectCard
+            title="🕌 The Constituion of India, 1950"
+            description="Notes, PYQs and important concepts."
+            link="/docs/category/the-constitution-of-india-1950"
+            
+          />
+
+          <SubjectCard
             title="🏞️ The Karnataka Land Revenue Act 1964"
             description="Notes, PYQs and important concepts."
             link="/docs/category/the-karnataka-land-revenue-act-1964"
