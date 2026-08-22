@@ -572,3 +572,18 @@ article .card:hover,
     margin: 0 0 1.25rem;
   }
 }
+
+/* --------------------------------------------------------------------------
+   Mobile navbar sidebar — full viewport
+   -------------------------------------------------------------------------- */
+
+@media (max-width: 996px) {
+  .navbar-sidebar {
+    width: 100%;
+    height: calc(100vh - var(--ifm-navbar-height));
+  }
+
+  .navbar-sidebar__items {
+    height: 100%;
+  }
+}
